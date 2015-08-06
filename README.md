@@ -48,6 +48,9 @@ A list of amazing Newsletters.
 ### Python
 * [Python Weekly](http://www.pythonweekly.com/)
 
+### Groovy
+* [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html)
+
 ## Editors
 ### Vim
 * [Vim Weekly](http://www.vimweekly.com/)
