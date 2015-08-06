@@ -62,3 +62,6 @@ A list of amazing Newsletters.
 ## Backend Development
 ### Docker
 * [Docker Weekly](https://www.docker.com/newsletter-subscription)
+
+### Devops
+* [DevOps Weekly](http://www.devopsweekly.com/)
