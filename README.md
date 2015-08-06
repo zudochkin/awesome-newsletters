@@ -96,3 +96,4 @@ A list of amazing Newsletters.
 * Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters/weekly).
 * [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
 * [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
+* [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
