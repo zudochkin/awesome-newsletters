@@ -4,6 +4,11 @@ A list of amazing Newsletters.
 
 ## Frontend
 * [SitePoint](http://www.sitepoint.com/newsletter/)
+* [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0)
+
+### General Web Development
+* [Weekend Reading](http://tinyletter.com/assaf)
+* [Web Development Reading List](http://tinyletter.com/wdrl)
 
 ### JavaScript
 * [JavaScript Weekly](http://javascriptweekly.com/)
@@ -14,6 +19,7 @@ A list of amazing Newsletters.
 * [ES6 & ES7 News & Tools](http://esweekly.com/)
 * [Web Operations Weekly](http://webopsweekly.com/)
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/)
+* [ng-newsletter](http://www.ng-newsletter.com)
 * [EmberJS Weekly](http://emberweekly.com/)
 
 ### Data Visualization
@@ -21,10 +27,14 @@ A list of amazing Newsletters.
 
 ### CSS
 * [CSS Weekly](http://css-weekly.com/)
+* [CSS-Tricks](https://css-tricks.com) signup is at the bottom of the page.
 
 ### Design
 * [Web Design Weekly](https://web-design-weekly.com/)
 * [Product Design Weekly](http://designweekly.atomic.io/). Digital product design news, articles, showcases and resources, delivered straight to your inbox once a week.
+* [Sidebar](http://sidebar.io). Five design-centric posts each day.
+* [Web Desinger News](http://www.webdesignernews.com)
+* [Responsive Design Weekly](http://responsivedesignweekly.com)
 
 ### HTML5
 * [HTML5 Weekly](http://html5weekly.com/)
