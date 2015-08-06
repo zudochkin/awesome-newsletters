@@ -86,6 +86,7 @@ A list of amazing Newsletters.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
+* [Your weekly Azure news fix](http://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 
 ### Configuration Management
 * [Briefs On Ansible](https://valdhaus.co/newsletters/ansible/). "Briefs on Ansible" is an unofficial newsletter that sends you updates on the top news in the Ansible community.
