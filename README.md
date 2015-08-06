@@ -95,3 +95,4 @@ A list of amazing Newsletters.
 * Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
 * Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters/weekly).
 * [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
+* [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
