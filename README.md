@@ -14,6 +14,9 @@ A list of amazing Newsletters.
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/)
 * [EmberJS Weekly](http://emberweekly.com/)
 
+### Data Visualization
+* [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
+
 ### CSS
 * [CSS Weekly](http://css-weekly.com/)
 
