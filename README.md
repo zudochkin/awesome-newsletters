@@ -22,6 +22,7 @@ A list of amazing Newsletters.
 
 ### Design
 * [Web Design Weekly](https://web-design-weekly.com/)
+* [Product Design Weekly](http://designweekly.atomic.io/). Digital product design news, articles, showcases and resources, delivered straight to your inbox once a week.
 
 ### HTML5
 * [HTML5 Weekly](http://html5weekly.com/)
