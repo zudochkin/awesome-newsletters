@@ -68,3 +68,6 @@ A list of amazing Newsletters.
 
 ### Devops
 * [DevOps Weekly](http://www.devopsweekly.com/)
+
+## Etc.
+* A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
