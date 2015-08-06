@@ -78,6 +78,9 @@ A list of amazing Newsletters.
 ### Devops
 * [DevOps Weekly](http://www.devopsweekly.com/)
 
+## Mobile
+* [Mobile Web Weekly](http://mobilewebweekly.co/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
+
 ## Etc.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
 * [Data Science Weekly Newsletter](http://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
