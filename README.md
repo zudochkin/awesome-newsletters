@@ -52,6 +52,7 @@ A list of amazing Newsletters.
 
 ### Python
 * [Python Weekly](http://www.pythonweekly.com/)
+* [Weekly Python Newsletter](http://importpython.com/newsletter/). Weekly Python Newsletter containing Python Articles, Projects, Videos, Tweets delivered in your inbox.
 
 ### Groovy
 * [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html)
