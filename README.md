@@ -68,6 +68,9 @@ A list of amazing Newsletters.
 ### Redis
 * [Redis Weekly](http://redisweekly.com/)
 
+### NoSQL
+* [NoSQL Weekly](http://www.nosqlweekly.com/)
+
 ## Backend Development
 ### Docker
 * [Docker Weekly](https://www.docker.com/newsletter-subscription)
