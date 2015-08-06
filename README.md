@@ -80,6 +80,9 @@ A list of amazing Newsletters.
 ### Devops
 * [DevOps Weekly](http://www.devopsweekly.com/)
 
+### Cloud Development
+* [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
+
 ## Mobile
 * [Mobile Web Weekly](http://mobilewebweekly.co/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
 
