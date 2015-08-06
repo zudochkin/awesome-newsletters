@@ -3,6 +3,8 @@
 A list of amazing Newsletters.
 
 ## Frontend
+* [SitePoint](http://www.sitepoint.com/newsletter/)
+
 ### JavaScript
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [ReactJS Newsletter](http://reactjsnewsletter.com/)
