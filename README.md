@@ -45,6 +45,9 @@ A list of amazing Newsletters.
 ### PHP
 * [PHP Weekly](http://www.phpweekly.com/)
 
+### Python
+* [Python Weekly](http://www.pythonweekly.com/)
+
 ## Editors
 ### Vim
 * [Vim Weekly](http://www.vimweekly.com/)
