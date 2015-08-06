@@ -47,6 +47,7 @@ A list of amazing Newsletters.
 
 ### PHP
 * [PHP Weekly](http://www.phpweekly.com/)
+* [Laravel Weekly Newsletter](http://laravelweekly.com/). Laravel PHP framework.
 
 ### Python
 * [Python Weekly](http://www.pythonweekly.com/)
