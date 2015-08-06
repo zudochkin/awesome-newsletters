@@ -59,6 +59,8 @@ A list of amazing Newsletters.
 * [Vim Weekly](http://www.vimweekly.com/)
 
 ## Databases
+* [DB Weekly](http://dbweekly.com/). A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
+
 ### PostgreSQL
 * [Postgres Weekly](http://postgresweekly.com/)
 
