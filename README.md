@@ -51,6 +51,9 @@ A list of amazing Newsletters.
 ### Groovy
 * [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html)
 
+### Perl
+* [Perl Weekly](http://perlweekly.com/)
+
 ## Editors
 ### Vim
 * [Vim Weekly](http://www.vimweekly.com/)
