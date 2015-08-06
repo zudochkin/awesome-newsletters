@@ -79,3 +79,4 @@ A list of amazing Newsletters.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
 * [Data Science Weekly Newsletter](http://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
 * Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
+* Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters/weekly).
