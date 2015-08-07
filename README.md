@@ -19,7 +19,6 @@ A list of amazing Newsletters.
 * [ES6 & ES7 News & Tools](http://esweekly.com/)
 * [Web Operations Weekly](http://webopsweekly.com/)
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/)
-* [ng-newsletter](http://www.ng-newsletter.com)
 * [EmberJS Weekly](http://emberweekly.com/)
 
 ### Data Visualization
