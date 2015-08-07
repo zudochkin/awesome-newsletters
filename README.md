@@ -34,7 +34,7 @@ A list of amazing Newsletters.
 * [Sidebar](http://sidebar.io). Five design-centric posts each day.
 * [Web Desinger News](http://www.webdesignernews.com). Curated stories for designers.
 * [Responsive Design Weekly](http://responsivedesignweekly.com). A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
-* [UX Weekly](http://uxwkly.com/). A small newsletter of around five links per week that has consistently good reading. 
+* [UX Weekly](http://uxwkly.com/). A small newsletter of around five links per week that has consistently good reading.
 
 ### HTML5
 * [HTML5 Weekly](http://html5weekly.com/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
