@@ -65,6 +65,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Swift
 * [Swift Newsletter](http://swiftweekly.com/). Code examples, tutorials, screencasts and much more to learn Apple’s new programming language.
+* [Natasha The Robot (Swift newsletter)](http://natashatherobot.com/)
 
 ### Go
 * [Go Newsletter](http://golangweekly.com/). A weekly newsletter about the Go programming language.
