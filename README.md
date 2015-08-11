@@ -73,6 +73,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Ruby
 * [Ruby Weekly](http://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
 * [Ruby posts by Thoughtbot](https://robots.thoughtbot.com/tags/ruby)
+* [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 
 ### PHP
 * [PHP Weekly](http://www.phpweekly.com/). A free once-a-week newsletter, featuring some great articles, news and blog posts.
