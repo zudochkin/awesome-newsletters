@@ -1,6 +1,6 @@
 # Awesome Newsletter
 
-A list of amazing Newsletters.
+A curated list of awesome newsletters.
 
 ## Frontend
 * [SitePoint](http://www.sitepoint.com/newsletter/)
