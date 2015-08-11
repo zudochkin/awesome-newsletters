@@ -91,6 +91,9 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Perl
 * [Perl Weekly](http://perlweekly.com/). A free, once a week e-mail round-up of hand-picked news and articles about Perl.
 
+### Elixir
+* [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
+
 ## Editors
 ### Vim
 * [Vim Weekly](http://www.vimweekly.com/). Every monday, we send 5 tips that can help boost your vim productivity you can think of it as one tip per day!
