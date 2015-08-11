@@ -128,6 +128,7 @@ every Sunday in the form of the DevOps newsletter.
 ## Mobile
 * [Mobile Web Weekly](http://mobilewebweekly.co/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
 * [Android Authority Dev Weekly](http://devweekly.androidauthority.com/). Android Authority Dev Weekly is a weekly curated publication full of interesting, relevant links for Android developers.
+* [Android Weekly](http://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
 
 ## Etc.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
