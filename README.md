@@ -58,6 +58,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ## Programming Languages
 ### ObjectiveC
 * [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week.
+* [ObjC](http://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
 
 ### Node.js
 * [Node Weekly](http://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
