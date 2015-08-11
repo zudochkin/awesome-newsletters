@@ -62,6 +62,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Node.js
 * [Node Weekly](http://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
+* [npm Weekly](https://www.npmjs.com/npm-weekly)
 
 ### Swift
 * [Swift Newsletter](http://swiftweekly.com/). Code examples, tutorials, screencasts and much more to learn Apple’s new programming language.
