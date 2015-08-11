@@ -1,10 +1,20 @@
-# Awesome Newsletter
+# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome newsletters.
 
+Inspired by the `awesome-*` trend on GitHub.
+
+The goal is to build a categorized community-driven collection of very well-known resources.
+
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vredniy/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
+
+Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/graphs/contributors).
+
+
+
 ## Frontend
 * [SitePoint](http://www.sitepoint.com/newsletter/)
-* [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](http://frontendfront.com/).
+* [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](http://frontendfront.com/)
 
 ### General Web Development
 * [Weekend Reading](http://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
@@ -120,3 +130,10 @@ A curated list of awesome newsletters.
 * [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
 * [Reddit's Official Newsletter](https://www.reddit.com/newsletter). Best of reddit's content curated, packaged, and delivered to your inbox once a week.
 * [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
+
+
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Dmitry Zudochkin](https://github.com/vredniy) has waived all copyright and related or neighboring rights to this work.
