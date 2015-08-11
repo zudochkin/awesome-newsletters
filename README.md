@@ -108,6 +108,8 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Devops
 * [DevOps Weekly](http://www.devopsweekly.com/). A weekly slice of devops news.
+* [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/). The best DevOps links of the week delivered to your inbox
+every Sunday in the form of the DevOps newsletter.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
