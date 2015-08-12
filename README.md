@@ -94,6 +94,9 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Elixir
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
 
+### Clojure
+* [Clojure Gazette](http://www.clojuregazette.com/archive.html). A free, weekly email to inspire Clojure programmers.
+
 ## Editors
 ### Vim
 * [Vim Weekly](http://www.vimweekly.com/). Every monday, we send 5 tips that can help boost your vim productivity you can think of it as one tip per day!
