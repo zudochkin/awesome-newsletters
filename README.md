@@ -13,7 +13,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 
 ## Frontend
-* [SitePoint](http://www.sitepoint.com/newsletter/)
+* [SitePoint](http://www.sitepoint.com/newsletter/). [Archive](http://www.sitepoint.com/newsletter-archive/).
 * [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](http://frontendfront.com/)
 
 ### General Web Development
@@ -21,7 +21,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Web Development Reading List](http://tinyletter.com/wdrl). This Newsletter shares the latest articles in web development.
 
 ### JavaScript
-* [JavaScript Weekly](http://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles.
+* [JavaScript Weekly](http://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](http://javascriptweekly.com/issues).
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
 * [The Smashing Email Newsletter](http://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
 * [A Drip of JavaScript](http://adripofjavascript.com/index.html). One quick JavaScript tip, delivered to your inbox every other week.
