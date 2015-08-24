@@ -47,10 +47,15 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [UX Weekly](http://uxwkly.com/). A small newsletter of around five links per week that has consistently good reading.
 * [Alertbox E-Mail Newsletter](http://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
 * [Web Design Depot](http://www.webdesignerdepot.com/newsletter/). It's packed with quick bits of news, inspirational resources as well as cool new products and services for designers.
+* [UI Movement](http://uimovement.com). Only the best UI design inspiration, right in your inbox.
+* [Designer News](https://www.designernews.co). Where the design community meets.
+* [Design Faves](http://www.designfaves.com). Daily posts and exclusive articles marry the very best modern expressions and innovations from the Branding, Art and Graphic Design worlds.
+* [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
 
 ### HTML5
 * [HTML5 Weekly](http://html5weekly.com/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
+* [eWebDesign](http://ewebdesign.com). Connect with the latest web news and articles from industry experts. Learn web design and web development through our exclusive tutorials delivered right to your inbox.
 
 ### SVG
 * [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
