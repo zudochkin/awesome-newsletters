@@ -152,6 +152,9 @@ every Sunday in the form of the DevOps newsletter.
 * [Data Science Weekly Newsletter](http://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
 * [Hadoop Weekly](http://www.hadoopweekly.com/). Summary of the week's top news in the Apache Hadoop™ ecosystem.
 
+## Technology in General
+* [Barista.io](http://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
+
 ## Etc.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
 * Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
