@@ -165,6 +165,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
 * [Reddit's Official Newsletter](https://www.reddit.com/newsletter). Best of reddit's content curated, packaged, and delivered to your inbox once a week.
 * [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
+* [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
 
 
 # License
