@@ -61,7 +61,10 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### SVG
 * [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
 
-## Programming Languages
+## Programming
+### Common Section
+* [O’Reilly Programming Newsletter](http://www.oreilly.com/programming/newsletter). Receive weekly Programming news and insights from industry insiders.
+
 ### ObjectiveC
 * [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week.
 * [ObjC](http://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
