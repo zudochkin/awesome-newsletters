@@ -160,6 +160,7 @@ every Sunday in the form of the DevOps newsletter.
 
 ## Technology in General
 * [Barista.io](http://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
+* [Four Short Links](http://radar.oreilly.com/four-short-links). 4 short links about (mostly research oriented) technology every weekday.
 
 ## Etc.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
