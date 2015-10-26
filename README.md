@@ -20,6 +20,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Weekend Reading](http://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
 * [Web Development Reading List](http://tinyletter.com/wdrl). This Newsletter shares the latest articles in web development.
 * [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
+* [Web Stack Weekly](http://likerrr.ru/newsletter). A weekly collection of links for web development stack, picked up from popular internet resources.
 
 ### JavaScript
 * [JavaScript Weekly](http://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](http://javascriptweekly.com/issues).
