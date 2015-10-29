@@ -59,6 +59,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [HTML5 Weekly](http://html5weekly.com/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
 * [eWebDesign](http://ewebdesign.com). Connect with the latest web news and articles from industry experts. Learn web design and web development through our exclusive tutorials delivered right to your inbox.
+* [Web Components Weekly](http://webcomponentsweekly.me/). A newsletter that provides you with the latest resources, news items, tips, tricks, talks and events for the Web Components, Polymer and others.
 
 ### SVG
 * [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
