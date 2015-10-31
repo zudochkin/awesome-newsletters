@@ -127,6 +127,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Redis
 * [Redis Weekly](http://redisweekly.com/). A free, once–weekly e-mail round-up of Redis news, articles, tools and libraries.
+* [Redis Watch](https://redislabs.com/redis-watch-archive). Periodic newsletter about everything and anything Redis.
 
 ### NoSQL
 * [NoSQL Weekly](http://www.nosqlweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to NoSQL.
