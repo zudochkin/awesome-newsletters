@@ -179,6 +179,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
 * [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
 * [Founders Grid](http://foundersgrid.com/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
+* [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
 
 
 # License
