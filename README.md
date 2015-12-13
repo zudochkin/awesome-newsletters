@@ -91,6 +91,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 * [RubyIssue(s)](https://rubyissues.ongoodbits.com/). A curated list of ruby related issues collected from GitHub. Bi-monthly email delivery. The ambition is to provide an entry point to the open source space for developers of all levels and from various backgrounds.
 * [Volt Framework](http://voltframework.com/). Volt is a framework for building data rich web applications shockingly fast.
+* [Green Ruby News](http://greenruby.org/). A feed of fresh links of the week about ruby, javascript, webdev, devops, collected by mose, xenor and tysliu every Sunday.
 
 ### PHP
 * [PHP Weekly](http://www.phpweekly.com/). A free once-a-week newsletter, featuring some great articles, news and blog posts.
