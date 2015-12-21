@@ -1,4 +1,4 @@
-# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
 
 A curated list of awesome newsletters.
 
@@ -18,7 +18,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### General Web Development
 * [Weekend Reading](http://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
-* [Web Development Reading List](http://tinyletter.com/wdrl). This Newsletter shares the latest articles in web development.
+* ~~[Web Development Reading List](tinyletter.com/wdrl). This Newsletter shares the latest articles in web development.~~
 * [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
 * [Web Stack Weekly](http://likerrr.ru/newsletter). A weekly collection of links for web development stack, picked up from popular internet resources.
 
@@ -48,7 +48,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Web Desinger News](http://www.webdesignernews.com). Curated stories for designers.
 * [Responsive Design Weekly](http://responsivedesignweekly.com). A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
 * [UX Weekly](http://uxwkly.com/). A small newsletter of around five links per week that has consistently good reading.
-* [Alertbox E-Mail Newsletter](http://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
+* [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
 * [Web Design Depot](http://www.webdesignerdepot.com/newsletter/). It's packed with quick bits of news, inspirational resources as well as cool new products and services for designers.
 * [UI Movement](http://uimovement.com). Only the best UI design inspiration, right in your inbox.
 * [Designer News](https://www.designernews.co). Where the design community meets.
@@ -71,7 +71,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### ObjectiveC
 * [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week.
-* [ObjC](http://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
+* [ObjC](https://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
 
 ### Node.js
 * [Node Weekly](http://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
@@ -145,7 +145,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 every Sunday in the form of the DevOps newsletter.
 * [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
 * [Server Admin for Programmers](https://serversforhackers.com/)
-* [KubeWeekly](https://kubeweekly.com/). Interesting weekly news about Kubernetes in the form of a newsletter.
+* ~~[KubeWeekly](kubeweekly.com). Interesting weekly news about Kubernetes in the form of a newsletter.~~
 * [UsingChef](https://usingchef.com/). Chef users using Chef.
 
 ### Cloud Development
@@ -157,7 +157,7 @@ every Sunday in the form of the DevOps newsletter.
 
 ## Mobile
 * [Mobile Web Weekly](http://mobilewebweekly.co/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
-* [Android Authority Dev Weekly](http://devweekly.androidauthority.com/). Android Authority Dev Weekly is a weekly curated publication full of interesting, relevant links for Android developers.
+* ~~[Android Authority Dev Weekly](devweekly.androidauthority.com). Android Authority Dev Weekly is a weekly curated publication full of interesting, relevant links for Android developers.~~
 * [Android Weekly](http://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
 
 ## Big Data
@@ -187,6 +187,6 @@ every Sunday in the form of the DevOps newsletter.
 
 # License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Dmitry Zudochkin](https://github.com/vredniy) has waived all copyright and related or neighboring rights to this work.
