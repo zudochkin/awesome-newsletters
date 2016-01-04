@@ -55,6 +55,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Design Faves](http://www.designfaves.com). Daily posts and exclusive articles marry the very best modern expressions and innovations from the Branding, Art and Graphic Design worlds.
 * [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
 * [Hacking UI](http://hackingui.com/). Weekly hand-picked resources for front-end developers and product managers.
+* [UX Essentials](http://uxessentials.co.uk/). 5 best links of week about UX, UI and Product Design emailed to you every Sunday.
 
 ### HTML5
 * [HTML5 Weekly](http://html5weekly.com/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
