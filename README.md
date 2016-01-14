@@ -25,7 +25,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### JavaScript
 * [JavaScript Weekly](http://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](http://javascriptweekly.com/issues).
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
-* [The Smashing Email Newsletter](http://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
+* [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
 * [A Drip of JavaScript](http://adripofjavascript.com/index.html). One quick JavaScript tip, delivered to your inbox every other week.
 * [Web Tools Weekly](http://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
 * [ES6 & ES7 News & Tools](http://esweekly.com/). Stay up to date with the latest ES6 & ES7 news & tools delivered directly to your inbox.
@@ -187,7 +187,7 @@ every Sunday in the form of the DevOps newsletter.
 * [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
 * [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
 * [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
-* [Founders Grid](http://foundersgrid.com/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
+* [Founders Grid](https://foundersgrid.com/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 * [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
 
 
