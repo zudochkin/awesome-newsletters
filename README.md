@@ -189,6 +189,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
 * [Founders Grid](https://foundersgrid.com/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 * [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
+* [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
 
 
 # License
