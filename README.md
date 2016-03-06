@@ -169,7 +169,7 @@ every Sunday in the form of the DevOps newsletter.
 ## Big Data
 * [Big Data Weekly](http://www.bigdataweekly.com/). Big Data technology news and links delivered to your inbox, weekly.
 * [Data Science Weekly Newsletter](http://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
-* [Hadoop Weekly](http://www.hadoopweekly.com/). Summary of the week's top news in the Apache Hadoop™ ecosystem.
+* [Hadoop Weekly](https://www.hadoopweekly.com/). Summary of the week's top news in the Apache Hadoop™ ecosystem.
 
 ## Technology in General
 * [Barista.io](http://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
