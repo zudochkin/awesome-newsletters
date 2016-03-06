@@ -14,7 +14,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ## Frontend
 * [SitePoint](http://www.sitepoint.com/newsletter/). [Archive](http://www.sitepoint.com/newsletter-archive/).
-* [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](http://frontendfront.com/)
+* [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
 
 ### General Web Development
 * [Weekend Reading](http://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
@@ -62,8 +62,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### HTML5
 * [HTML5 Weekly](http://html5weekly.com/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
-* [eWebDesign](http://ewebdesign.com). Connect with the latest web news and articles from industry experts. Learn web design and web development through our exclusive tutorials delivered right to your inbox.
-* [Web Components Weekly](http://webcomponentsweekly.me/). A newsletter that provides you with the latest resources, news items, tips, tricks, talks and events for the Web Components, Polymer and others.
+* [eWebDesign](https://ewebdesign.com). Connect with the latest web news and articles from industry experts. Learn web design and web development through our exclusive tutorials delivered right to your inbox.
 
 ### SVG
 * [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
@@ -151,9 +150,8 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 every Sunday in the form of the DevOps newsletter.
 * [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
 * [Server Admin for Programmers](https://serversforhackers.com/)
-* ~~[KubeWeekly](kubeweekly.com). Interesting weekly news about Kubernetes in the form of a newsletter.~~
-* [UsingChef](https://usingchef.com/). Chef users using Chef.
-* [Cron.Weekly](http://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
+* [KubeWeekly](https://kubeweekly.com). Interesting weekly news about Kubernetes in the form of a newsletter.
+* [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
