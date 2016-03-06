@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [HTML5 Weekly](http://html5weekly.com/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
 * [eWebDesign](https://ewebdesign.com). Connect with the latest web news and articles from industry experts. Learn web design and web development through our exclusive tutorials delivered right to your inbox.
+* [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
 
 ### SVG
 * [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
