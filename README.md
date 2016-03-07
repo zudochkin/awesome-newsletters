@@ -191,6 +191,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Founders Grid](https://foundersgrid.com/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 * [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
 * [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
+* [Hacking Revenue](http://hackingrevenue.com/). One email a week with carefully curated insights to scale up your business.
 
 
 # License
