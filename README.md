@@ -193,6 +193,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
 * [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
 * [Hacking Revenue](http://hackingrevenue.com/). One email a week with carefully curated insights to scale up your business.
+* [The Changelog Nightly](https://changelog.com/nightly/). An email, every night at 10pm CT, that unearths the hottest new repos on GitHub.
 
 
 # License
