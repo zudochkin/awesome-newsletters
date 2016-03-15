@@ -34,6 +34,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Web Operations Weekly](http://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
 * [EmberJS Weekly](http://emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
+* [ES.next News](http://esnextnews.com/). 5 ECMAScript.next links every week curated by Dr. Axel Raushmayer and Johannes Weber.
 
 ### Data Visualization
 * [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
