@@ -22,6 +22,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
 * [Web Stack Weekly](http://likerrr.ru/newsletter). A weekly collection of links for web development stack, picked up from popular internet resources.
 * [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform.
+* [Versioning](https://www.sitepoint.com/versioning/email). Stay entertained and up to date about all things web dev and design with a daily email.
 
 ### JavaScript
 * [JavaScript Weekly](http://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](http://javascriptweekly.com/issues).
