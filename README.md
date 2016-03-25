@@ -38,6 +38,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
 * [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
 * [Fullstack React](http://newsletter.fullstackreact.com/). Newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. [Archive](http://newsletter.fullstackreact.com/issues).
+* [React Digest](https://www.getrevue.co/profile/the-react-digest). A hand-picked weekly selection of the best React JS resources.
 
 #### AngularJS
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
@@ -70,11 +71,12 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [UX Essentials](http://uxessentials.co.uk/). 5 best links of week about UX, UI and Product Design emailed to you every Sunday.
 * [Timetrabbble](http://www.timetrabbble.com/). A daily dose of inspiration from [Dribbble](https://dribbble.com/) to your inbox.
 * [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
+* [The UI Animation Newsletter](http://valhead.us2.list-manage2.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5). The UI Animation Newsletter keeps you up to date on the best web animation, motion design, and UX resources.
+* [Web Animation Weekly](http://webanimationweekly.com/). A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
 
 ### HTML5
 * [HTML5 Weekly](http://html5weekly.com/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
-* [eWebDesign](https://ewebdesign.com). Connect with the latest web news and articles from industry experts. Learn web design and web development through our exclusive tutorials delivered right to your inbox.
 * [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
 
 ### SVG
