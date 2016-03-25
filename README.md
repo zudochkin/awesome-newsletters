@@ -15,6 +15,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ## Frontend
 * [SitePoint](http://www.sitepoint.com/newsletter/). [Archive](http://www.sitepoint.com/newsletter-archive/).
 * [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
+* [Front End Newsletter](http://frontendnewsletter.com/). The free, weekly newsletter of the best Front End related news, articles, projects, and more. JavaScript, React, Angular, Ember, Polymer, Meteor, RxJS, Elm, and more. [Archive](http://frontendnewsletter.com/issues).
 
 ### General Web Development
 * [Weekend Reading](http://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
