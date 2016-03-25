@@ -183,7 +183,7 @@ every Sunday in the form of the DevOps newsletter.
 ## Etc.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
 * Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
-* Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters/weekly).
+* Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
 * [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
 * [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
 * [The ChangeLog Weekly](https://changelog.com/weekly/). A weekly newsletter, covering everything that hits open source radar.
