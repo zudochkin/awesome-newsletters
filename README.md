@@ -27,16 +27,23 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### JavaScript
 * [JavaScript Weekly](http://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](http://javascriptweekly.com/issues).
-* [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
-* [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
 * [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
 * [A Drip of JavaScript](http://adripofjavascript.com/index.html). One quick JavaScript tip, delivered to your inbox every other week.
 * [Web Tools Weekly](http://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
 * [ES6 & ES7 News & Tools](http://esweekly.com/). Stay up to date with the latest ES6 & ES7 news & tools delivered directly to your inbox.
 * [Web Operations Weekly](http://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
-* [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
-* [EmberJS Weekly](http://emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
 * [ES.next News](http://esnextnews.com/). 5 ECMAScript.next links every week curated by Dr. Axel Raushmayer and Johannes Weber.
+
+#### React
+* [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
+* [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
+* [Fullstack React](http://newsletter.fullstackreact.com/). Newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. [Archive](http://newsletter.fullstackreact.com/issues).
+
+#### AngularJS
+* [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
+
+#### EmberJS
+* [EmberJS Weekly](http://emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
 
 ### Data Visualization
 * [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
