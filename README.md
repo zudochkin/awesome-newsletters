@@ -167,6 +167,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Server Admin for Programmers](https://serversforhackers.com/)
 * [KubeWeekly](https://kubeweekly.com). Interesting weekly news about Kubernetes in the form of a newsletter.
 * [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
+* [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
