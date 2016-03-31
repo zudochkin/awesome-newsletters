@@ -30,7 +30,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
 * [A Drip of JavaScript](http://adripofjavascript.com/index.html). One quick JavaScript tip, delivered to your inbox every other week.
 * [Web Tools Weekly](http://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
-* [ES6 & ES7 News & Tools](http://esweekly.com/). Stay up to date with the latest ES6 & ES7 news & tools delivered directly to your inbox.
 * [Web Operations Weekly](http://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 * [ES.next News](http://esnextnews.com/). 5 ECMAScript.next links every week curated by Dr. Axel Raushmayer and Johannes Weber.
 
