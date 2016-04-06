@@ -16,6 +16,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [SitePoint](http://www.sitepoint.com/newsletter/). [Archive](http://www.sitepoint.com/newsletter-archive/).
 * [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
 * [Front End Newsletter](http://frontendnewsletter.com/). The free, weekly newsletter of the best Front End related news, articles, projects, and more. JavaScript, React, Angular, Ember, Polymer, Meteor, RxJS, Elm, and more. [Archive](http://frontendnewsletter.com/issues).
+* [Dev Tips](https://umaar.com/dev-tips/). A developer tip, in the form of a gif, in your inbox each week.
 
 ### General Web Development
 * [Weekend Reading](http://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
@@ -188,7 +189,6 @@ every Sunday in the form of the DevOps newsletter.
 ## Technology in General
 * [Barista.io](http://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
 * [Four Short Links](http://radar.oreilly.com/four-short-links). 4 short links about (mostly research oriented) technology every weekday.
-* [Dev Tips](https://umaar.com/dev-tips/). A developer tip, in the form of a gif, in your inbox each week.
 * [The Morning Paper](http://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
 ## Etc.
