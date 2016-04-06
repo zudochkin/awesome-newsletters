@@ -113,6 +113,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### PHP
 * [PHP Weekly](http://www.phpweekly.com/). A free once-a-week newsletter, featuring some great articles, news and blog posts.
 * [Laravel Weekly Newsletter](http://laravelweekly.com/). Laravel PHP framework.
+* [Laravel News](https://laravel-news.com/). Every week lots of tips, tutorials, and packages are released for Laravel.
 
 ### Python
 * [Python Weekly](http://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
