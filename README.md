@@ -211,6 +211,7 @@ every Sunday in the form of the DevOps newsletter.
 * [The Changelog Nightly](https://changelog.com/nightly/). An email, every night at 10pm CT, that unearths the hottest new repos on GitHub.
 * [GitHub Reminder](https://githubreminder.org/signin). Receive serendipitous (daily, weekly or monthly) email reminders about forgotten starred repos.
 * [GitHub News](http://www.gitlogs.com/). Discover top trending repos at GitHub, detected by a peak detection algorithm.
+* [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 
 
 # License
