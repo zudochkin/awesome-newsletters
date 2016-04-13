@@ -48,6 +48,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Data Visualization
 * [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
+* [Vizually Newsletter](https://vizually.io). Data Vizualization and Business Intelligence industry insights, news, and examples delivered bi-weekly.
 
 ### CSS
 * [CSS Weekly](http://css-weekly.com/). Weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
