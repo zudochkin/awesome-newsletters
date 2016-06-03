@@ -1,7 +1,7 @@
 language: ruby
 rvm:
-  - 2.2
+  - 2.3.1
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md -w reactnative.cc,designernews,reddit
+  - awesome_bot README.md -w designernews.co

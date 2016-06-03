@@ -183,11 +183,9 @@ every Sunday in the form of the DevOps newsletter.
 
 ## Mobile
 * [Mobile Web Weekly](http://mobilewebweekly.co/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
-* ~~[Android Authority Dev Weekly](devweekly.androidauthority.com). Android Authority Dev Weekly is a weekly curated publication full of interesting, relevant links for Android developers.~~
 * [Android Weekly](http://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
 
 ## Big Data
-* [Big Data Weekly](http://www.bigdataweekly.com/). Big Data technology news and links delivered to your inbox, weekly.
 * [Data Science Weekly Newsletter](http://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
 * [Hadoop Weekly](https://www.hadoopweekly.com/). Summary of the week's top news in the Apache Hadoop™ ecosystem.
 
