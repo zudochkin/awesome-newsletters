@@ -103,6 +103,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Go
 * [Go Newsletter](http://golangweekly.com/). A weekly newsletter about the Go programming language.
 * [Golang Daily](https://paper.li/b0rder/1307943412). Golang news, videos and technology posts compiled by community.
+* [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 
 ### Ruby
 * [Ruby Weekly](http://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
