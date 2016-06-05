@@ -140,6 +140,10 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Crystal
 * [Crystal Weekly](http://www.crystalweekly.com/). A weekly newsletter about Crystal programming language that aims to bring the best resources, blog posts, community events and anything Crystal to your inbox.
 
+### Elm
+
+* [Elm Weekly](http://www.elmweekly.nl/). The wonderful world of the Elm programming language, in your inbox.
+
 ## Editors
 ### Vim
 * [Vim Weekly](http://www.vimweekly.com/). Every monday, we send 5 tips that can help boost your vim productivity you can think of it as one tip per day!
