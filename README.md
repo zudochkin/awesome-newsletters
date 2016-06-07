@@ -100,6 +100,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Swift Newsletter](http://swiftweekly.com/). Code examples, tutorials, screencasts and much more to learn Apple’s new programming language.
 * [Natasha The Robot (Swift newsletter)](https://swiftnews.curated.co/). A weekly list of the best Swift resources for you.
 * [Swift Sandbox](http://swiftsandbox.io/). A weekly newsletter for Swift developers with links to the best Swift code, projects and playgrounds.
+* [Swift Weekly Brief](https://swiftweekly.github.io). A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday.
 
 ### Go
 * [Go Newsletter](http://golangweekly.com/). A weekly newsletter about the Go programming language.
