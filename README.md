@@ -36,7 +36,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 #### React
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
-* [React Native Newsletter](http://reactnative.cc/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
+* [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
 * [Fullstack React](http://newsletter.fullstackreact.com/). Newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. [Archive](http://newsletter.fullstackreact.com/issues).
 * [React Digest](https://www.getrevue.co/profile/the-react-digest). A hand-picked weekly selection of the best React JS resources.
 
