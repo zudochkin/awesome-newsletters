@@ -210,6 +210,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Remotive Tips](https://remoteworking.curated.co/). A hand picked round-up of the best productivity & remote work links twice a month. [Archive](https://remoteworking.curated.co/issues).
 * [My Morning Routine](http://mymorningroutine.com/). My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.
 * [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
+* [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 
 
 ## Etc.
