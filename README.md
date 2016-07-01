@@ -208,6 +208,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
 * [Remotive Tips](https://remoteworking.curated.co/). A hand picked round-up of the best productivity & remote work links twice a month. [Archive](https://remoteworking.curated.co/issues).
+* [My Morning Routine](http://mymorningroutine.com/). My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.
 
 
 ## Etc.
