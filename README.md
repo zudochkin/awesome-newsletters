@@ -198,25 +198,29 @@ every Sunday in the form of the DevOps newsletter.
 * [Four Short Links](https://www.oreilly.com/feed/four-short-links). 4 short links about (mostly research oriented) technology every weekday.
 * [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
-## Etc.
-* A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
+## Awesome news
+* [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
+* [Reddit's Official Newsletter](https://www.reddit.com/newsletter). Best of reddit's content curated, packaged, and delivered to your inbox once a week.
+* [The ChangeLog Weekly](https://changelog.com/weekly/). A weekly newsletter, covering everything that hits open source radar.
+* [GitHub News](http://www.gitlogs.com/). Discover top trending repos at GitHub, detected by a peak detection algorithm.
 * Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
 * Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
+* [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
+* A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
+* [Remotive Tips](https://remoteworking.curated.co/). A hand picked round-up of the best productivity & remote work links twice a month. [Archive](https://remoteworking.curated.co/issues).
+
+
+## Etc.
 * [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
-* [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
-* [The ChangeLog Weekly](https://changelog.com/weekly/). A weekly newsletter, covering everything that hits open source radar.
 * [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
-* [Reddit's Official Newsletter](https://www.reddit.com/newsletter). Best of reddit's content curated, packaged, and delivered to your inbox once a week.
 * [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
 * [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
 * [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
 * [Founders Grid](https://foundersgrid.com/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 * [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
-* [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
 * [Hacking Revenue](http://hackingrevenue.com/). One email a week with carefully curated insights to scale up your business.
 * [The Changelog Nightly](https://changelog.com/nightly/). An email, every night at 10pm CT, that unearths the hottest new repos on GitHub.
 * [GitHub Reminder](https://githubreminder.org/signin). Receive serendipitous (daily, weekly or monthly) email reminders about forgotten starred repos.
-* [GitHub News](http://www.gitlogs.com/). Discover top trending repos at GitHub, detected by a peak detection algorithm.
 * [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 
 
