@@ -136,6 +136,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Clojure
 * [Clojure Gazette](http://www.clojuregazette.com/archive.html). A free, weekly email to inspire Clojure programmers.
+* [The REPL](http://therepl.net/). A weekly newsletter about Clojure and ClojureScript.
 
 ### Crystal
 * [Crystal Weekly](http://www.crystalweekly.com/). A weekly newsletter about Crystal programming language that aims to bring the best resources, blog posts, community events and anything Crystal to your inbox.
