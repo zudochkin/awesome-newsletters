@@ -36,7 +36,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 #### React
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
-* [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
+* [React Native Newsletter](http://reactnative.cc/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
 * [Fullstack React](http://newsletter.fullstackreact.com/). Newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. [Archive](http://newsletter.fullstackreact.com/issues).
 * [React Digest](https://www.getrevue.co/profile/the-react-digest). A hand-picked weekly selection of the best React JS resources.
 
@@ -65,7 +65,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [UX Weekly](http://uxwkly.com/). A small newsletter of around five links per week that has consistently good reading.
 * [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
 * [Web Design Depot](http://www.webdesignerdepot.com/newsletter/). It's packed with quick bits of news, inspirational resources as well as cool new products and services for designers.
-* [UI Movement](http://uimovement.com). Only the best UI design inspiration, right in your inbox.
+* [UI Movement](https://uimovement.com). Only the best UI design inspiration, right in your inbox.
 * [Designer News](https://www.designernews.co). Where the design community meets.
 * [Design Faves](http://www.designfaves.com). Daily posts and exclusive articles marry the very best modern expressions and innovations from the Branding, Art and Graphic Design worlds.
 * [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
