@@ -54,7 +54,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [CSS Weekly](http://css-weekly.com/). Weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
 * [CSS-Tricks](https://css-tricks.com). signup is at the bottom of the page right under the **Get the newsletter** header!.
 * [CSS Layout News](http://csslayout.news/). A weekly collection of tutorials, news and information on all things CSS Layout.
-* [Sass News].(http://sassnews.com/) Get the latest and greatest news, tutorials, and code examples on all Sass-y greatness.
+* [Sass News](http://sassnews.com/sassnews). Get the latest and greatest news, tutorials, and code examples on all Sass-y greatness.
 
 ### Design
 * [Web Design Weekly](https://web-design-weekly.com/). Just pure awesome links to the best news and articles to hit the interweb during the week.
@@ -75,7 +75,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
 * [The UI Animation Newsletter](http://valhead.us2.list-manage2.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5). The UI Animation Newsletter keeps you up to date on the best web animation, motion design, and UX resources.
 * [Web Animation Weekly](http://webanimationweekly.com/). A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
-* [Design Systems News](http://designsystems.curated.co/). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide.
+* [Design Systems News](https://designsystems.curated.co/issues). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide.
 
 ### HTML5
 * [HTML5 Weekly](http://html5weekly.com/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
