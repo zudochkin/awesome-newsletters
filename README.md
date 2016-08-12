@@ -135,6 +135,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Elixir
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
+* [Data Elixir](http://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](http://dataelixir.com/issues).
 
 ### Clojure
 * [Clojure Gazette](http://www.clojuregazette.com/archive.html). A free, weekly email to inspire Clojure programmers.
@@ -144,7 +145,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Crystal Weekly](http://www.crystalweekly.com/). A weekly newsletter about Crystal programming language that aims to bring the best resources, blog posts, community events and anything Crystal to your inbox.
 
 ### Elm
-
 * [Elm Weekly](http://www.elmweekly.nl/). The wonderful world of the Elm programming language, in your inbox.
 
 ## Editors
