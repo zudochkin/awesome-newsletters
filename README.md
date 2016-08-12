@@ -138,11 +138,8 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Data Elixir](http://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](http://dataelixir.com/issues).
 
 ### Clojure
-* [Clojure Gazette](http://www.clojuregazette.com/archive.html). A free, weekly email to inspire Clojure programmers.
-* [The REPL](http://therepl.net/). A weekly newsletter about Clojure and ClojureScript.
-
-### Crystal
-* [Crystal Weekly](http://www.crystalweekly.com/). A weekly newsletter about Crystal programming language that aims to bring the best resources, blog posts, community events and anything Crystal to your inbox.
+* [Clojure Gazette](https://clojuregazette.com/). A free, weekly email to inspire Clojure programmers. [Archive](https://clojuregazette.com/archives/).
+* [The REPL](https://therepl.net/). A weekly newsletter about Clojure and ClojureScript.
 
 ### Elm
 * [Elm Weekly](http://www.elmweekly.nl/). The wonderful world of the Elm programming language, in your inbox.
@@ -177,7 +174,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 every Sunday in the form of the DevOps newsletter.
 * [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
 * [Server Admin for Programmers](https://serversforhackers.com/)
-* [KubeWeekly](https://kubeweekly.com). Interesting weekly news about Kubernetes in the form of a newsletter.
+* [KubeWeekly](http://kube.news/). Interesting weekly news about Kubernetes in the form of a newsletter.
 * [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
 * [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 
