@@ -76,6 +76,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [The UI Animation Newsletter](http://valhead.us2.list-manage2.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5). The UI Animation Newsletter keeps you up to date on the best web animation, motion design, and UX resources.
 * [Web Animation Weekly](http://webanimationweekly.com/). A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
 * [Design Systems News](https://designsystems.curated.co/). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide. [Archive](https://designsystems.curated.co/issues).
+* [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 
 ### HTML5
 * [HTML5 Weekly](http://html5weekly.com/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
