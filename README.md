@@ -94,6 +94,9 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week.
 * [ObjC](https://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
 
+### C# #
+* [C# Digest](http://csharpdigest.net/). A weekly newsletter featuring the top 5 c# links of the week.
+
 ### Node.js
 * [Node Weekly](http://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
 * [npm Weekly](https://www.npmjs.com/npm-weekly)
