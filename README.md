@@ -33,7 +33,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Web Tools Weekly](http://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
 * [Web Operations Weekly](http://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 * [ES.next News](http://esnextnews.com/). 5 ECMAScript.next links every week curated by Dr. Axel Raushmayer and Johannes Weber.
-* [Awesome JavaScript](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
 #### React
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
@@ -94,11 +94,11 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### ObjectiveC
 * [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week.
 * [ObjC](https://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
-* [Awesome iOS](https://ios.libhunt.com/newsletter). A curated list of awesome iOS libraries, including Objective-C and Swift Projects.
+* [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter). A curated list of awesome iOS libraries, including Objective-C and Swift Projects.
 
 ### C# #
 * [C# Digest](http://csharpdigest.net/). A weekly newsletter featuring the top 5 c# links of the week.
-* [Awesome .Net](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
+* [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
 
 ### Node.js
 * [Node Weekly](http://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
@@ -110,7 +110,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Natasha The Robot (Swift newsletter)](https://swiftnews.curated.co/). A weekly list of the best Swift resources for you.
 * [Swift Sandbox](http://swiftsandbox.io/). A weekly newsletter for Swift developers with links to the best Swift code, projects and playgrounds.
 * [Swift Weekly Brief](https://swiftweekly.github.io). A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday.
-* [Awesome Swift](https://swift.libhunt.com/newsletter). A curated list of awesome swift libraries and resources.
+* [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter). A curated list of awesome swift libraries and resources.
 
 ### Go
 * [Go Newsletter](http://golangweekly.com/). A weekly newsletter about the Go programming language.
@@ -123,13 +123,13 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [RubyIssue(s)](https://rubyissues.ongoodbits.com/). A curated list of ruby related issues collected from GitHub. Bi-monthly email delivery. The ambition is to provide an entry point to the open source space for developers of all levels and from various backgrounds.
 * [Volt Framework](http://voltframework.com/). Volt is a framework for building data rich web applications shockingly fast.
 * [Green Ruby News](http://greenruby.org/). A feed of fresh links of the week about ruby, javascript, webdev, devops, collected by mose, xenor and tysliu every Sunday.
-* [Awesome Ruby](https://ruby.libhunt.com/newsletter). A collection of awesome Ruby gems, tools, frameworks and software.
+* [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter). A collection of awesome Ruby gems, tools, frameworks and software.
 
 ### PHP
 * [PHP Weekly](http://www.phpweekly.com/). A free once-a-week newsletter, featuring some great articles, news and blog posts.
 * [Laravel Weekly Newsletter](http://laravelweekly.com/). Laravel PHP framework.
 * [Laravel News](https://laravel-news.com/). Every week lots of tips, tutorials, and packages are released for Laravel.
-* [Awesome PHP](https://php.libhunt.com/newsletter). A curated list of awesome PHP libraries and resources.
+* [Awesome PHP Newsletter](https://php.libhunt.com/newsletter). A curated list of awesome PHP libraries and resources.
 
 ### Python
 * [Python Weekly](http://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
@@ -146,7 +146,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Elixir
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
 * [Data Elixir](http://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](http://dataelixir.com/issues).
-* [Awesome Elixir](https://elixir.libhunt.com/newsletter). A curated list of awesome Elixir and Erlang packages and resources.
+* [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter). A curated list of awesome Elixir and Erlang packages and resources.
 
 ### Clojure
 * [Clojure Gazette](https://clojuregazette.com/). A free, weekly email to inspire Clojure programmers. [Archive](https://clojuregazette.com/archives/).
@@ -157,16 +157,16 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Rust
 * [This Week in Rust](https://this-week-in-rust.org). Stay up to date with events, learning resources, and recent developments in Rust community.
-* [Awesome Rust](https://rust.libhunt.com/newsletter). A curated list of Rust libraries and resources.
+* [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter). A curated list of Rust libraries and resources.
 
 ### C++
-* [Awesome C++](https://cpp.libhunt.com/newsletter). A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things.
+* [Awesome C++ Newsletter](https://cpp.libhunt.com/newsletter). A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things.
 
 ### Scala
-* [Awesome Scala](https://scala.libhunt.com/newsletter). A community driven list of useful Scala libraries, frameworks and software.
+* [Awesome Scala Newsletter](https://scala.libhunt.com/newsletter). A community driven list of useful Scala libraries, frameworks and software.
 
 ### Java
-* [Awesome Java](https://java.libhunt.com/newsletter). A curated list of awesome Java frameworks, libraries and software.
+* [Awesome Java Newsletter](https://java.libhunt.com/newsletter). A curated list of awesome Java frameworks, libraries and software.
 
 ## Editors
 ### Vim
@@ -201,7 +201,7 @@ every Sunday in the form of the DevOps newsletter.
 * [KubeWeekly](http://kube.news/). Interesting weekly news about Kubernetes in the form of a newsletter.
 * [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
 * [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
-* [Awesome SysAdmin](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
+* [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
@@ -213,7 +213,7 @@ every Sunday in the form of the DevOps newsletter.
 ## Mobile
 * [Mobile Web Weekly](http://mobilewebweekly.co/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
 * [Android Weekly](http://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
-* [Awesome Android](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
+* [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 
 ## Big Data
 * [Data Science Weekly Newsletter](http://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
@@ -251,7 +251,7 @@ every Sunday in the form of the DevOps newsletter.
 * [The Changelog Nightly](https://changelog.com/nightly). An email, every night at 10pm CT, that unearths the hottest new repos on GitHub.
 * [GitHub Reminder](https://githubreminder.org/signin). Receive serendipitous (daily, weekly or monthly) email reminders about forgotten starred repos.
 * [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
-* [Awesome Self Hosted](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
+* [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 
 
 # License
