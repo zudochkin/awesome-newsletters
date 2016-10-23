@@ -148,6 +148,9 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Elm
 * [Elm Weekly](http://www.elmweekly.nl/). The wonderful world of the Elm programming language, in your inbox.
 
+### Rust
+* [This Week in Rust](https://this-week-in-rust.org). Stay up to date with events, learning resources, and recent developments in Rust community.
+
 ## Editors
 ### Vim
 * [Vim Weekly](http://www.vimweekly.com/). Every monday, we send 5 tips that can help boost your vim productivity you can think of it as one tip per day!
