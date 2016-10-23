@@ -79,7 +79,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 
 ### HTML5
-* [HTML5 Weekly](http://html5weekly.com/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
+* [FrontEnd Focus](http://frontendfocus.co/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
 * [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
 
@@ -208,7 +208,7 @@ every Sunday in the form of the DevOps newsletter.
 ## Awesome news
 * [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
 * [Reddit's Official Newsletter](https://www.reddit.com/newsletter). Best of reddit's content curated, packaged, and delivered to your inbox once a week.
-* [The ChangeLog Weekly](https://changelog.com/weekly/). A weekly newsletter, covering everything that hits open source radar.
+* [The ChangeLog Weekly](https://changelog.com/weekly). A weekly newsletter, covering everything that hits open source radar.
 * [GitHub News](http://www.gitlogs.com/). Discover top trending repos at GitHub, detected by a peak detection algorithm.
 * Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
 * Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
@@ -229,7 +229,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Founders Grid](https://foundersgrid.com/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 * [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
 * [Hacking Revenue](http://hackingrevenue.com/). One email a week with carefully curated insights to scale up your business.
-* [The Changelog Nightly](https://changelog.com/nightly/). An email, every night at 10pm CT, that unearths the hottest new repos on GitHub.
+* [The Changelog Nightly](https://changelog.com/nightly). An email, every night at 10pm CT, that unearths the hottest new repos on GitHub.
 * [GitHub Reminder](https://githubreminder.org/signin). Receive serendipitous (daily, weekly or monthly) email reminders about forgotten starred repos.
 * [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 
