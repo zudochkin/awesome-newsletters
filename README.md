@@ -145,8 +145,8 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Elixir
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
-* [Data Elixir](http://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](http://dataelixir.com/issues).
 * [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter). A curated list of awesome Elixir and Erlang packages and resources.
+* [Elixir Digest](http://elixirdigest.net/). Weekly portion of Elixir and Phoenix goodness. [Archive](http://elixirdigest.net/digests).
 
 ### Clojure
 * [Clojure Gazette](https://clojuregazette.com/). A free, weekly email to inspire Clojure programmers. [Archive](https://clojuregazette.com/archives/).
@@ -218,6 +218,7 @@ every Sunday in the form of the DevOps newsletter.
 ## Big Data
 * [Data Science Weekly Newsletter](http://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
 * [Hadoop Weekly](https://www.hadoopweekly.com/). Summary of the week's top news in the Apache Hadoop™ ecosystem.
+* [Data Elixir](http://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](http://dataelixir.com/issues).
 
 ## Technology in General
 * [Barista.io](http://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
