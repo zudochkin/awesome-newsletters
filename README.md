@@ -216,7 +216,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 
 ## Big Data
-* [Data Science Weekly Newsletter](http://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
+* [Data Science Weekly Newsletter](https://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
 * [Hadoop Weekly](https://www.hadoopweekly.com/). Summary of the week's top news in the Apache Hadoop™ ecosystem.
 * [Data Elixir](http://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](http://dataelixir.com/issues).
 
