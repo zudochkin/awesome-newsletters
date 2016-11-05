@@ -35,6 +35,9 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [ES.next News](http://esnextnews.com/). 5 ECMAScript.next links every week curated by Dr. Axel Raushmayer and Johannes Weber.
 * [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
+#### Polymer
+* [Weekly Polymer](http://weeklypolymer.com/). Subscribe to a hand-picked round up of the best Polymer & web-components development links every week. Curated by [Geoffrey Huntley](https://ghuntley.com) and published every Friday. Free.
+
 #### React
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
 * [React Native Newsletter](http://reactnative.cc/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
@@ -211,6 +214,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Briefs On Ansible](https://valdhaus.co/newsletters/ansible/). "Briefs on Ansible" is an unofficial newsletter that sends you updates on the top news in the Ansible community.
 
 ## Mobile
+* [Weekly Xamarin](http://weeklyxamarin.com/). ubscribe to a hand-picked round up of the best Xamarin development links every week. Curated by [Geoffrey Huntley](https://ghuntley.com) and published every Friday. Free.
 * [Mobile Web Weekly](http://mobilewebweekly.co/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
 * [Android Weekly](http://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
 * [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
