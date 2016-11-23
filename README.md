@@ -90,6 +90,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ## Programming
 ### Common Section
 * [O’Reilly Programming Newsletter](http://www.oreilly.com/programming/newsletter). Receive weekly Programming news and insights from industry insiders.
+* [Programming Digest](http://programmingdigest.net/). 5 links, one article from Monday to Friday with the most interesting news about programming, big data, architecture, development process, databases — you name it.
 
 ### ObjectiveC
 * [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week.
