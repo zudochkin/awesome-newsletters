@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md -w designernews.co,npmjs.com,this-week-in-rust.org
+  - awesome_bot README.md -w designernews.co,npmjs.com,this-week-in-rust.org,kube,css-tricks
