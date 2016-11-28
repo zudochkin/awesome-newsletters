@@ -40,7 +40,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [React Native Newsletter](http://reactnative.cc/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
 * [Fullstack React](http://newsletter.fullstackreact.com/). Newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. [Archive](http://newsletter.fullstackreact.com/issues).
 * [React Digest](https://www.getrevue.co/profile/the-react-digest). A hand-picked weekly selection of the best React JS resources.
-* [React Digest 2](http://reactdigest.net/). 5 links; Flux, Redux, MobX, React and React Native we are watching everything so sign up and get your portion of javascript awesomeness every week.
+* [React Digest 2](https://reactdigest.net/). 5 links; Flux, Redux, MobX, React and React Native we are watching everything so sign up and get your portion of javascript awesomeness every week.
 
 #### AngularJS
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
@@ -91,7 +91,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ## Programming
 ### Common Section
 * [O’Reilly Programming Newsletter](http://www.oreilly.com/programming/newsletter). Receive weekly Programming news and insights from industry insiders.
-* [Programming Digest](http://programmingdigest.net/). 5 links, one article from Monday to Friday with the most interesting news about programming, big data, architecture, development process, databases — you name it.
+* [Programming Digest](https://programmingdigest.net/). 5 links, one article from Monday to Friday with the most interesting news about programming, big data, architecture, development process, databases — you name it.
 
 ### ObjectiveC
 * [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week.
@@ -99,7 +99,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter). A curated list of awesome iOS libraries, including Objective-C and Swift Projects.
 
 ### C# #
-* [C# Digest](http://csharpdigest.net/). A weekly newsletter featuring the top 5 c# links of the week.
+* [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring the top 5 c# links of the week.
 * [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
 
 ### Node.js
@@ -148,7 +148,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Elixir
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
 * [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter). A curated list of awesome Elixir and Erlang packages and resources.
-* [Elixir Digest](http://elixirdigest.net/). Weekly portion of Elixir and Phoenix goodness. [Archive](http://elixirdigest.net/digests).
+* [Elixir Digest](https://elixirdigest.net/). Weekly portion of Elixir and Phoenix goodness. [Archive](https://elixirdigest.net/digests).
 
 ### Clojure
 * [PurelyFunctional.tv](https://purelyfunctional.tv/). A free, weekly email to inspire programmers insterested in functional programming (mainly Clojure). [Archive](https://purelyfunctional.tv/newsletter-archives/).
