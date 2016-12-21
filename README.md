@@ -246,7 +246,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
 * [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
 * [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
-* [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
+* [Web Audio Weekly](http://www.webaudioweekly.com/). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
 * [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
 * [Founders Grid](https://foundersgrid.com/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 * [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
