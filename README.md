@@ -221,6 +221,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Data Science Weekly Newsletter](https://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
 * [Hadoop Weekly](https://www.hadoopweekly.com/). Summary of the week's top news in the Apache Hadoop™ ecosystem.
 * [Data Elixir](http://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](http://dataelixir.com/issues).
+* [Deep Learning Weekly](http://www.deeplearningweekly.com/). That's new and exciting from academia to the grubby depth of industry right to your inbox.
 
 ## Technology in General
 * [Barista.io](http://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
