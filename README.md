@@ -34,6 +34,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Web Operations Weekly](http://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 * [ES.next News](http://esnextnews.com/). 5 ECMAScript.next links every week curated by Dr. Axel Raushmayer and Johannes Weber.
 * [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* [TypeScript Weekly](https://www.typescript-weekly.com/). The best TypeScript links every week, right in your box.
 
 #### React
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
