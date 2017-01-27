@@ -226,6 +226,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/issues).
 * [Deep Learning Weekly](http://www.deeplearningweekly.com/). That's new and exciting from academia to the grubby depth of industry right to your inbox.
 * [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
+* [The Wild Week in AI](https://www.getrevue.co/profile/wildml). A weekly AI & Deep Learning newsletter.
 
 ## Technology in General
 * [Barista.io](http://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
