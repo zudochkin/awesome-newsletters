@@ -190,7 +190,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Redis
 * [Redis Weekly](http://redisweekly.com/). A free, once–weekly e-mail round-up of Redis news, articles, tools and libraries.
-* [Redis Watch](https://redislabs.com/redis-watch-archive). Periodic newsletter about everything and anything Redis.
+* [Redis Watch](https://redislabs.com/redis-watch-archive/). Periodic newsletter about everything and anything Redis.
 
 ### NoSQL
 * [NoSQL Weekly](http://www.nosqlweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to NoSQL.
@@ -235,7 +235,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
 
 ## Technology in General
-* [Barista.io](http://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
+* [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
 * [Four Short Links](https://www.oreilly.com/feed/four-short-links). 4 short links about (mostly research oriented) technology every weekday.
 * [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
