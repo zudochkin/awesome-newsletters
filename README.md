@@ -159,6 +159,9 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [PurelyFunctional.tv](https://purelyfunctional.tv/). A free, weekly email to inspire programmers insterested in functional programming (mainly Clojure). [Archive](https://purelyfunctional.tv/newsletter-archives/).
 * [The REPL](https://therepl.net/). A weekly newsletter about Clojure and ClojureScript.
 
+### Haskell
+* [Haskell Weekly](https://haskellweekly.news). A free email newsletter about the Haskell programming language.
+
 ### Elm
 * [Elm Weekly](http://www.elmweekly.nl/). The wonderful world of the Elm programming language, in your inbox.
 
