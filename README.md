@@ -156,7 +156,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Elixir Digest](https://elixirdigest.net/). Weekly portion of Elixir and Phoenix goodness. [Archive](https://elixirdigest.net/digests).
 
 ### Clojure
-* [PurelyFunctional.tv](https://purelyfunctional.tv/). A free, weekly email to inspire programmers insterested in functional programming (mainly Clojure). [Archive](https://purelyfunctional.tv/newsletter-archives/).
 * [The REPL](https://therepl.net/). A weekly newsletter about Clojure and ClojureScript.
 
 ### Haskell
