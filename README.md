@@ -124,6 +124,9 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Go Newsletter](http://golangweekly.com/). A weekly newsletter about the Go programming language.
 * [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 
+### R
+* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is openly developed on GitHub.
+
 ### Ruby
 * [Ruby Weekly](http://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
 * [Ruby posts by Thoughtbot](https://robots.thoughtbot.com/tags/ruby)
