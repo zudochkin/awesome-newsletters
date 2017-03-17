@@ -125,7 +125,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 
 ### R
-* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is openly developed on [GitHub](https://github.com/rweekly/rweekly.org).
+* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 * [Ruby Weekly](http://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
