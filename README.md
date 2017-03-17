@@ -224,7 +224,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Briefs On Ansible](https://valdhaus.co/newsletters/ansible/). "Briefs on Ansible" is an unofficial newsletter that sends you updates on the top news in the Ansible community.
 
 ## Mobile
-* [Mobile Web Weekly](http://mobilewebweekly.co/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
+* [Mobile Web Weekly](https://mobilewebweekly.co/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
 * [Android Weekly](http://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
 * [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 * [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
