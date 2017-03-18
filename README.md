@@ -141,6 +141,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Laravel Weekly Newsletter](http://laravelweekly.com/). Laravel PHP framework.
 * [Laravel News](https://laravel-news.com/). Every week lots of tips, tutorials, and packages are released for Laravel.
 * [Awesome PHP Newsletter](https://php.libhunt.com/newsletter). A curated list of awesome PHP libraries and resources.
+* [murze.be newsletter](https://murze.be/newsletter). A bi weekly newsletter on modern PHP and Laravel.
 
 ### Python
 * [Python Weekly](http://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
