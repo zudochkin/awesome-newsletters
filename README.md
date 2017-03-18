@@ -207,7 +207,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Devops
 * [DevOps Weekly](http://www.devopsweekly.com/). A weekly slice of devops news.
-* [DevOpsLinks] (http://devopslinks.com). DevOpsLinks is a community of thousands of IT experts from all over the world.
 * [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/). The best DevOps links of the week delivered to your inbox
 every Sunday in the form of the DevOps newsletter.
 * [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
@@ -216,6 +215,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
 * [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 * [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
+* [DevOpsLinks](http://devopslinks.com). DevOpsLinks is a community of thousands of IT experts from all over the world.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
