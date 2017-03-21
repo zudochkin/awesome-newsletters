@@ -217,6 +217,7 @@ every Sunday in the form of the DevOps newsletter.
 * [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 * [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
 * [DevOpsLinks](http://devopslinks.com). DevOpsLinks is a community of thousands of IT experts from all over the world.
+* [Monitoring Weekly](http://weekly.monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
