@@ -218,6 +218,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
 * [DevOpsLinks](http://devopslinks.com). DevOpsLinks is a community of thousands of IT experts from all over the world.
 * [Monitoring Weekly](http://weekly.monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
+* [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
