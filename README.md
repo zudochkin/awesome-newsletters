@@ -187,7 +187,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Vim Weekly](http://www.vimweekly.com/). Every monday, we send 5 tips that can help boost your vim productivity you can think of it as one tip per day!
 
 ## Databases
-* [DB Weekly](http://dbweekly.com/). A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
+* [DB Weekly](https://dbweekly.com/). A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
 
 ### PostgreSQL
 * [Postgres Weekly](http://postgresweekly.com/). A free, once–weekly e-mail round-up of PostgreSQL news and articles.
