@@ -243,6 +243,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Machine Learning Weekly](http://mlweekly.com/). A hand-curated newsletter about machine learning and deep learning.
 * [Deep Hunt](https://www.getrevue.co/profile/hindupuravinash). Your weekly newsletter on the hottest things in Artificial Intelligence.
 * [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
+* [Technically Sentient](https://inside.com/technically-sentient). A weekly newsletter focusing on Artificial Intelligence, Robotics, and Neurotechnology.
 
 ## Technology in General
 * [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
