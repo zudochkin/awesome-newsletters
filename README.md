@@ -196,7 +196,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Weekly MySQL News](http://mysqlnewsletter.com/). Unofficial Weekly News Digest of all things MySQL.
 
 ### Redis
-* [Redis Weekly](http://redisweekly.com/). A free, once–weekly e-mail round-up of Redis news, articles, tools and libraries.
 * [Redis Watch](https://redislabs.com/resources/redis-watch-archive/). Periodic newsletter about everything and anything Redis.
 
 ### NoSQL
