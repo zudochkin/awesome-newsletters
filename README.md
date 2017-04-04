@@ -121,7 +121,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter). A curated list of awesome swift libraries and resources.
 
 ### Go
-* [Go Newsletter](http://golangweekly.com/). A weekly newsletter about the Go programming language.
+* [Go Newsletter](https://golangweekly.com/). A weekly newsletter about the Go programming language.
 * [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 
 ### R
@@ -258,7 +258,6 @@ every Sunday in the form of the DevOps newsletter.
 * Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
 * [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
-* [Remotive Tips](https://remoteworking.curated.co/). A hand picked round-up of the best productivity & remote work links twice a month. [Archive](https://remoteworking.curated.co/issues).
 * [My Morning Routine](http://mymorningroutine.com/). My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.
 * [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 * [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
