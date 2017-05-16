@@ -277,7 +277,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 * [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 * [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
-
+* [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world. 
 
 # License
 
