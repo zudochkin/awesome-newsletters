@@ -36,6 +36,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 * [TypeScript Weekly](https://www.typescript-weekly.com/). The best TypeScript links every week, right in your box.
 * [JSter](http://jster.net/blog). No nonsense list of curated JavaScript links to your mailbox once every two weeks. [Subscribe](http://jster.us7.list-manage1.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
+* [Weekend JavaScript](http://www.weekendjs.com/). A handy picked-up collection of essentials JavaScript articles to read on your weekend. Aimed at mature developers.
 
 #### React
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
