@@ -249,6 +249,10 @@ every Sunday in the form of the DevOps newsletter.
 * [Four Short Links](https://www.oreilly.com/feed/four-short-links). 4 short links about (mostly research oriented) technology every weekday.
 * [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
+## Business/Finance
+* [Finimize](http://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
+* [Morning Brew](https://morningbrewdaily.com/). Your daily fix of everything business.
+
 ## Awesome news
 * [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
 * [Reddit's Official Newsletter](https://www.reddit.com/newsletter). Best of reddit's content curated, packaged, and delivered to your inbox once a week.
@@ -277,6 +281,8 @@ every Sunday in the form of the DevOps newsletter.
 * [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 * [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
 * [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
+* [Now I Know](http://nowiknow.com/). A free, daily email offering trivia in a neat digest.
+* [The ListServe](http://thelistserve.com/). A free, unique "lottery" newsletter where every day a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
 
 # License
 
