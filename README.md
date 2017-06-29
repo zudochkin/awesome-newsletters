@@ -285,6 +285,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
 * [Now I Know](http://nowiknow.com/). A free, daily email offering trivia in a neat digest.
 * [The ListServe](http://thelistserve.com/). A free, unique "lottery" newsletter where every day a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
+* [Engineering Impact](https://www.gitprime.com/engineering-impact). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
 
 # License
 
