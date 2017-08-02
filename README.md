@@ -22,7 +22,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Weekend Reading](http://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
 * [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
 * [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
-* [Web Stack Weekly](http://likerrr.ru/newsletter). A weekly collection of links for web development stack, picked up from popular internet resources.
 * [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform.
 * [Versioning](https://www.sitepoint.com/versioning/). Stay entertained and up to date about all things web dev and design with a daily email.
 
@@ -36,7 +35,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 * [TypeScript Weekly](https://www.typescript-weekly.com/). The best TypeScript links every week, right in your box.
 * [JSter](http://jster.net/blog). No nonsense list of curated JavaScript links to your mailbox once every two weeks. [Subscribe](http://jster.us7.list-manage1.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
-* [Weekend JavaScript](http://www.weekendjs.com/). A handy picked-up collection of essentials JavaScript articles to read on your weekend. Aimed at mature developers.
 
 #### React
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
@@ -67,7 +65,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Design
 * [Web Design Weekly](https://web-design-weekly.com/). Just pure awesome links to the best news and articles to hit the interweb during the week.
 * [Product Design Weekly](http://designweekly.atomic.io/). Digital product design news, articles, showcases and resources, delivered straight to your inbox once a week.
-* [Sidebar](http://sidebar.io). Five design-centric posts each day.
+* [Sidebar](https://sidebar.io). Five design-centric posts each day.
 * [Web Designer News](http://www.webdesignernews.com). Curated stories for designers.
 * [Responsive Design Weekly](http://responsivedesignweekly.com). A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
 * [UX Weekly](http://uxwkly.com/). A small newsletter of around five links per week that has consistently good reading.
@@ -87,7 +85,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 
 ### HTML5
-* [FrontEnd Focus](http://frontendfocus.co/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
+* [FrontEnd Focus](https://frontendfoc.us). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
 * [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
 * [Weekly Polymer](http://weeklypolymer.com). Polymer & web-components development.
@@ -117,7 +115,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Swift
 * [Swift Newsletter](http://swiftweekly.com/). Code examples, tutorials, screencasts and much more to learn Apple’s new programming language.
 * [Natasha The Robot (Swift newsletter)](https://swiftnews.curated.co/). A weekly list of the best Swift resources for you.
-* [Swift Sandbox](http://swiftsandbox.io/). A weekly newsletter for Swift developers with links to the best Swift code, projects and playgrounds.
 * [Swift Weekly Brief](https://swiftweekly.github.io). A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday.
 * [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter). A curated list of awesome swift libraries and resources.
 
@@ -241,7 +238,6 @@ every Sunday in the form of the DevOps newsletter.
 * [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml). A weekly AI & Deep Learning newsletter.
 * [Machine Learning Weekly](http://mlweekly.com/). A hand-curated newsletter about machine learning and deep learning.
-* [Deep Hunt](https://www.getrevue.co/profile/hindupuravinash). Your weekly newsletter on the hottest things in Artificial Intelligence.
 * [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
 * [Technically Sentient](https://inside.com/technically-sentient). A weekly newsletter focusing on Artificial Intelligence, Robotics, and Neurotechnology.
 
@@ -252,7 +248,6 @@ every Sunday in the form of the DevOps newsletter.
 
 ## Business/Finance
 * [Finimize](http://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
-* [Morning Brew](https://www.morningbrewdaily.com/). Your daily fix of everything business.
 
 ## Awesome news
 * [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
@@ -285,7 +280,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
 * [Now I Know](http://nowiknow.com/). A free, daily email offering trivia in a neat digest.
 * [The ListServe](http://thelistserve.com/). A free, unique "lottery" newsletter where every day a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
-* [Engineering Impact](https://www.gitprime.com/engineering-impact). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
+* [Engineering Impact](https://www.gitprime.com/engineering-impact/). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
 
 # License
 
