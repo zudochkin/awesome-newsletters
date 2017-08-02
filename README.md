@@ -209,7 +209,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 every Sunday in the form of the DevOps newsletter.
 * [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
 * [Server Admin for Programmers](https://serversforhackers.com/)
-* [KubeWeekly](http://kube.news/). Interesting weekly news about Kubernetes in the form of a newsletter.
+* [KubeWeekly](http://kube.news). Interesting weekly news about Kubernetes in the form of a newsletter.
 * [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
 * [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 * [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
