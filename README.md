@@ -155,7 +155,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Elixir
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
-* [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter). A curated list of awesome Elixir and Erlang packages and resources.
+* [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter). A curated list of awesome Elixir and Erlang packages and resources. [Archive](https://elixir.libhunt.com/newsletter/archive).
 * [Elixir Digest](https://elixirdigest.net/). Weekly portion of Elixir and Phoenix goodness. [Archive](https://elixirdigest.net/digests).
 
 ### Clojure
