@@ -261,6 +261,7 @@ every Sunday in the form of the DevOps newsletter.
 * [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 * [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 * [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
+* [DevCraft Weekly](https://devcraftweekly.com/). A Weekly Newsletter on the Art, Craft and Lifestyle of Software Engineering.
 
 
 ## Etc.
