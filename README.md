@@ -63,7 +63,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [CSS Weekly](http://css-weekly.com/). Weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
 * [CSS-Tricks](https://css-tricks.com). signup is at the bottom of the page right under the **Get the newsletter** header!.
 * [CSS Layout News](http://csslayout.news/). A weekly collection of tutorials, news and information on all things CSS Layout.
-* [Sass News](http://sass.news). Get the latest and greatest news, tutorials, and code examples on all Sass-y greatness. [Archive](http://sass.news/sassnews).
+* [Sass News](http://sass.news). Get the latest and greatest news, tutorials, and code examples on all Sass-y greatness. [Archive](http://sass.news/issues).
 
 ### Design
 * [Web Design Weekly](https://web-design-weekly.com/). Just pure awesome links to the best news and articles to hit the interweb during the week.
