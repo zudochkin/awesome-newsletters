@@ -315,6 +315,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
 * [DevCraft Weekly](https://devcraftweekly.com/). A Weekly Newsletter on the Art, Craft and Lifestyle of Software Engineering.
 * [Exponential View](http://www.exponentialview.co/newsletter). A weekly newsletter on what’s new in the world of artificial intelligence, biotech, and the near future.
+* [Mostly-Free Bay Area Tech Events](http://tinyletter.com/lizziepika). A bimonthly newsletter on (mostly) free meetups, hackathons, conferences, and other events in the Bay Area, NYC, and Philadelphia areas. Also includes links to cool GitHub repos and opportunities to speak or volunteer.
 
 
 ## Etc.
