@@ -94,6 +94,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [React Digest](https://www.getrevue.co/profile/the-react-digest). A hand-picked weekly selection of the best React JS resources.
 * [React Digest 2](https://reactdigest.net/). 5 links; Flux, Redux, MobX, React and React Native we are watching everything so sign up and get your portion of javascript awesomeness every week.
 * [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe). A weekly newsletter about React and ecosystem.
+* [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 
 #### AngularJS
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
