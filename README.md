@@ -64,7 +64,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 - [License](#license)
 
 ## Frontend
-* [SitePoint](https://www.sitepoint.com/versioning/). [Archive](https://www.sitepoint.com/newsletter-archive/).
 * [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
 * [Front End Newsletter](http://frontendnewsletter.com/). The free, weekly newsletter of the best Front End related news, articles, projects, and more. JavaScript, React, Angular, Ember, Polymer, Meteor, RxJS, Elm, and more. [Archive](http://frontendnewsletter.com/issues).
 * [Dev Tips](https://umaar.com/dev-tips/). A developer tip, in the form of a gif, in your inbox each week.
