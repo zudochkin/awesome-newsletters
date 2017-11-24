@@ -338,7 +338,6 @@ every Sunday in the form of the DevOps newsletter.
 * [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
 * [Security Newsletter](https://securitynewsletter.co/). Weekly e-mail with the latest security news on Thursday or Friday.
 * [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
-* [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
 
 
 # License
