@@ -123,7 +123,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Responsive Design Weekly](http://responsivedesignweekly.com). A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
 * [UX Weekly](http://uxwkly.com/). A small newsletter of around five links per week that has consistently good reading.
 * [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
-* [Web Design Depot](https://www.webdesignerdepot.com/newsletter/). It's packed with quick bits of news, inspirational resources as well as cool new products and services for designers.
 * [UI Movement](https://uimovement.com). Only the best UI design inspiration, right in your inbox.
 * [Designer News](https://www.designernews.co). Where the design community meets.
 * [Design Faves](https://www.designfaves.com/). Daily posts and exclusive articles marry the very best modern expressions and innovations from the Branding, Art and Graphic Design worlds.
