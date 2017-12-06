@@ -291,6 +291,7 @@ every Sunday in the form of the DevOps newsletter.
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml). A weekly AI & Deep Learning newsletter.
 * [Machine Learning Weekly](http://mlweekly.com/). A hand-curated newsletter about machine learning and deep learning.
 * [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
+* [Inside AI](https://inside.com/ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 
 ## Technology in General
 * [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
