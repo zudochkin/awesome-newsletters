@@ -269,6 +269,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Monitoring Weekly](https://weekly.monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 * [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
 * [Web Operations Weekly](https://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
+* [DevOps'ish](https://devopsish.com) A weekly newsletter covering the worlds of DevOps and Cloud Native.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
