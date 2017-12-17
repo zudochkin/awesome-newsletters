@@ -316,7 +316,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
 * [DevCraft Weekly](https://devcraftweekly.com/). A Weekly Newsletter on the Art, Craft and Lifestyle of Software Engineering.
 * [Exponential View](http://www.exponentialview.co/newsletter). A weekly newsletter on what’s new in the world of artificial intelligence, biotech, and the near future.
-
+* [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 
 ## Etc.
 * [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
