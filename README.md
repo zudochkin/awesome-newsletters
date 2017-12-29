@@ -103,6 +103,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 #### VueJS
 * [Vue.js Newsletter](http://vue-newsletter.com/). Weekly dose of handpicked Vue.js news.
+* [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/). A weekly curated publication of the best articles, latest news and coolest Vue projects.
 
 ### Data Visualization
 * [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
