@@ -44,6 +44,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
   - [C++](#c)
   - [Scala](#scala)
   - [Java](#java)
+  - [Kotlin](#kotlin)
 - [Editors](#editors)
   - [Vim](#vim)
 - [Databases](#databases)
@@ -233,6 +234,9 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Java
 * [Awesome Java Newsletter](https://java.libhunt.com/newsletter). A curated list of awesome Java frameworks, libraries and software.
+
+### Kotlin
+* [Awesome Kotlin Newsletter](https://kotlin.libhunt.com/newsletter). A weekly overview of the most popular Kotlin news, articles and libraries.
 
 ## Editors
 ### Vim
