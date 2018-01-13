@@ -346,6 +346,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Security Newsletter](https://securitynewsletter.co/). Weekly e-mail with the latest security news on Thursday or Friday.
 * [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
 * [Inside Bitcoin](https://inside.com/bitcoin). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
+* [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
 
 
 # License
