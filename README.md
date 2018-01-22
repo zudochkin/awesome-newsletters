@@ -281,6 +281,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
 * [Your weekly Azure news fix](http://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 * [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
+* [Google Cloud Weekly Newsletter](https://www.the-swamp.info/newsletter/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
 
 ## Mobile
 * [Mobile Web Weekly](https://mobilewebweekly.com). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
