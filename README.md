@@ -56,6 +56,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
   - [Docker](#docker)
   - [Devops](#devops)
   - [Cloud Development](#cloud-development)
+  - [Kubernetes](#kubernetes)
 - [Mobile](#mobile)
 - [Artificial Intelligence / Machine Learning / Big Data](#artificial-intelligence--machine-learning--big-data)
 - [Technology in General](#technology-in-general)
@@ -267,7 +268,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 every Sunday in the form of the DevOps newsletter.
 * [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
 * [Server Admin for Programmers](https://serversforhackers.com/)
-* [KubeWeekly](http://kube.news). Interesting weekly news about Kubernetes in the form of a newsletter.
 * [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
 * [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 * [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
@@ -281,6 +281,11 @@ every Sunday in the form of the DevOps newsletter.
 * [Your weekly Azure news fix](http://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 * [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
 * [Google Cloud Weekly Newsletter](https://www.the-swamp.info/newsletter/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
+
+### Kubernetes
+* [kubelist](https://kubelist.com). Your curated weekly kubernetes information reconciliation loop.
+* [KubeWeekly](http://kube.news). Interesting weekly news about Kubernetes in the form of a newsletter.
+* [LWKD](http://lwkd.info). LWKD is a weekly newsletter summarizing code activity in the Kubernetes project: merges, PRs, deprecations, version updates, release schedules, and the weekly community meeting.
 
 ## Mobile
 * [Mobile Web Weekly](https://mobilewebweekly.com). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
