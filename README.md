@@ -306,6 +306,7 @@ every Sunday in the form of the DevOps newsletter.
 
 ## Technology in General
 * [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
+* [DevCraft](https://devcraftweekly.com/). A weekly newsletter on the art, craft and lifestyle of Software Engineering.
 * [Four Short Links](https://www.oreilly.com/feed/four-short-links). 4 short links about (mostly research oriented) technology every weekday.
 * [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
