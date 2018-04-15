@@ -97,6 +97,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe). A weekly newsletter about React and ecosystem.
 * [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 * [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
+* [ActReact](https://www.actreact.io). Learn React from the best content in the community, weekly in your inbox.
 
 #### AngularJS
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
