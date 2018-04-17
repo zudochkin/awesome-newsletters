@@ -76,10 +76,10 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
 * [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
 * [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform.
-* [Versioning](https://www.sitepoint.com/versioning/). Stay entertained and up to date about all things web dev and design with a daily email.
+* [Versioning](https://versioning.substack.com). Stay entertained and up to date about all things web dev and design with a daily email.
 
 ### JavaScript
-* [JavaScript Weekly](http://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](http://javascriptweekly.com/issues).
+* [JavaScript Weekly](https://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](https://javascriptweekly.com/issues).
 * [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
 * [A Drip of JavaScript](http://adripofjavascript.com/index.html). One quick JavaScript tip, delivered to your inbox every other week.
 * [Web Tools Weekly](https://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
@@ -106,16 +106,15 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [EmberJS Weekly](http://www.emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
 
 #### VueJS
-* [Vue.js Newsletter](http://vue-newsletter.com/). Weekly dose of handpicked Vue.js news.
+* [Vue.js Newsletter](https://news.vuejs.org). Weekly dose of handpicked Vue.js news.
 * [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/). A weekly curated publication of the best articles, latest news and coolest Vue projects.
 
 ### Data Visualization
 * [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
-* [Vizually Newsletter](https://vizually.io). Data Vizualization and Business Intelligence industry insights, news, and examples delivered bi-weekly.
 * [Best in Visual Storytelling](http://tinyletter.us16.list-manage1.com/subscribe?u=5c12dabe1e59a9fbde1174b8c&id=e27a48af53). Monday roundup of the best in data journalism from the past week. Paid version also includes data visualization job postings.
 
 ### CSS
-* [CSS Weekly](http://css-weekly.com/). Weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
+* [CSS Weekly](https://css-weekly.com/). Weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
 * [CSS-Tricks](https://css-tricks.com). signup is at the bottom of the page right under the **Get the newsletter** header!.
 * [CSS Layout News](http://csslayout.news/). A weekly collection of tutorials, news and information on all things CSS Layout.
 * [Sass News](http://sass.news). Get the latest and greatest news, tutorials, and code examples on all Sass-y greatness. [Archive](http://sass.news/issues).
@@ -134,7 +133,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
 * [Hacking UI](http://hackingui.com/). Weekly hand-picked resources for front-end developers and product managers.
 * [UX Essentials](http://uxessentials.co.uk/). 5 best links of week about UX, UI and Product Design emailed to you every Sunday.
-* [Timetrabbble](http://www.timetrabbble.com/). A daily dose of inspiration from [Dribbble](https://dribbble.com/) to your inbox.
 * [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
 * [The UI Animation Newsletter](http://valhead.us2.list-manage2.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5). The UI Animation Newsletter keeps you up to date on the best web animation, motion design, and UX resources.
 * [Web Animation Weekly](http://webanimationweekly.com/). A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
@@ -185,7 +183,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Ruby Weekly](https://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
 * [Ruby posts by Thoughtbot](https://robots.thoughtbot.com/tags/ruby)
 * [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
-* [RubyIssue(s)](https://rubyissues.ongoodbits.com/). A curated list of ruby related issues collected from GitHub. Bi-monthly email delivery. The ambition is to provide an entry point to the open source space for developers of all levels and from various backgrounds.
 * [Volt Framework](http://voltframework.com/). Volt is a framework for building data rich web applications shockingly fast.
 * [Green Ruby News](http://greenruby.org/). A feed of fresh links of the week about ruby, javascript, webdev, devops, collected by mose, xenor and tysliu every Sunday.
 * [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter). A collection of awesome Ruby gems, tools, frameworks and software.
@@ -242,6 +239,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ## Editors
 ### Vim
 * [Vim Weekly](http://www.vimweekly.com/). Every monday, we send 5 tips that can help boost your vim productivity you can think of it as one tip per day!
+* [Mastering Vim Quickly](http://masteringvim.com/). Best Vim stuff, once a week.
 
 ## Databases
 * [DB Weekly](https://dbweekly.com/). A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
@@ -272,7 +270,6 @@ every Sunday in the form of the DevOps newsletter.
 * [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
 * [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 * [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
-* [DevOpsLinks](http://devopslinks.com). DevOpsLinks is a community of thousands of IT experts from all over the world.
 * [Monitoring Weekly](https://weekly.monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 * [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
 * [Web Operations Weekly](https://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
@@ -289,7 +286,7 @@ every Sunday in the form of the DevOps newsletter.
 * [LWKD](http://lwkd.info). LWKD is a weekly newsletter summarizing code activity in the Kubernetes project: merges, PRs, deprecations, version updates, release schedules, and the weekly community meeting.
 
 ## Mobile
-* [Mobile Web Weekly](https://mobilewebweekly.com). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
+* [Mobile Web Weekly](https://mobiledevweekly.com/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
 * [Android Weekly](http://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
 * [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 * [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
@@ -327,8 +324,6 @@ every Sunday in the form of the DevOps newsletter.
 * [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 * [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 * [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
-* [DevCraft Weekly](https://devcraftweekly.com/). A Weekly Newsletter on the Art, Craft and Lifestyle of Software Engineering.
-* [Exponential View](http://www.exponentialview.co/newsletter). A weekly newsletter on what’s new in the world of artificial intelligence, biotech, and the near future.
 * [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 
 ## Etc.
