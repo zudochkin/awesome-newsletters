@@ -26,7 +26,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 - [Programming](#programming)
   - [Common Section](#common-section)
   - [ObjectiveC](#objectivec)
-  - [C](#c)
+  - [C#](#c)
   - [Node.js](#nodejs)
   - [Swift](#swift)
   - [Go](#go)
