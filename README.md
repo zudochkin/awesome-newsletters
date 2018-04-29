@@ -297,7 +297,6 @@ every Sunday in the form of the DevOps newsletter.
 * [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/issues).
 * [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml). A weekly AI & Deep Learning newsletter.
-* [Machine Learning Weekly](http://mlweekly.com/). A hand-curated newsletter about machine learning and deep learning.
 * [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
 * [Inside AI](https://inside.com/ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 * [Data Prism](http://dataprism.co/). Data Prism is a weekly publication of curated news about startups and companies in the fields of data science, machine learning, AI and analytics.
