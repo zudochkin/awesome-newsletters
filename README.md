@@ -152,6 +152,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Common Section
 * [O’Reilly Programming Newsletter](http://www.oreilly.com/programming/newsletter). Receive weekly Programming news and insights from industry insiders.
 * [Programming Digest](https://programmingdigest.net/). 5 links, one article from Monday to Friday with the most interesting news about programming, big data, architecture, development process, databases — you name it.
+* [Morning Cup of Coding](https://www.humanreadablemag.com/morningcupofcoding). A daily newsletter featuring long-form technical articles of all fields of programming.
 
 ### ObjectiveC
 * [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week.
@@ -297,7 +298,6 @@ every Sunday in the form of the DevOps newsletter.
 * [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/issues).
 * [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml). A weekly AI & Deep Learning newsletter.
-* [Machine Learning Weekly](http://mlweekly.com/). A hand-curated newsletter about machine learning and deep learning.
 * [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
 * [Inside AI](https://inside.com/ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 * [Data Prism](http://dataprism.co/). Data Prism is a weekly publication of curated news about startups and companies in the fields of data science, machine learning, AI and analytics.
