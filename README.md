@@ -132,7 +132,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Design Faves](https://www.designfaves.com/). Daily posts and exclusive articles marry the very best modern expressions and innovations from the Branding, Art and Graphic Design worlds.
 * [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
 * [Hacking UI](http://hackingui.com/). Weekly hand-picked resources for front-end developers and product managers.
-* [UX Essentials](http://uxessentials.co.uk/). 5 best links of week about UX, UI and Product Design emailed to you every Sunday.
 * [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
 * [The UI Animation Newsletter](http://valhead.us2.list-manage2.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5). The UI Animation Newsletter keeps you up to date on the best web animation, motion design, and UX resources.
 * [Web Animation Weekly](http://webanimationweekly.com/). A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
@@ -150,7 +149,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ## Programming
 ### Common Section
-* [O’Reilly Programming Newsletter](http://www.oreilly.com/programming/newsletter). Receive weekly Programming news and insights from industry insiders.
+* [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter). Receive weekly Programming news and insights from industry insiders.
 * [Programming Digest](https://programmingdigest.net/). 5 links, one article from Monday to Friday with the most interesting news about programming, big data, architecture, development process, databases — you name it.
 * [Morning Cup of Coding](https://www.humanreadablemag.com/morningcupofcoding). A daily newsletter featuring long-form technical articles of all fields of programming.
 
@@ -169,7 +168,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome Node.js Newsletter](https://nodejs.libhunt.com/newsletter). A weekly overview of the most popular Node.js news, articles and packages.
 
 ### Swift
-* [Swift Newsletter](http://swiftweekly.com/). Code examples, tutorials, screencasts and much more to learn Apple’s new programming language.
+* [Swift Newsletter](https://swiftweekly.com/). Code examples, tutorials, screencasts and much more to learn Apple’s new programming language.
 * [Swift Weekly Brief](https://swiftweekly.github.io). A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday.
 * [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter). A curated list of awesome swift libraries and resources.
 
@@ -193,7 +192,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Laravel News](https://laravel-news.com/). Every week lots of tips, tutorials, and packages are released for Laravel.
 * [Awesome PHP Newsletter](https://php.libhunt.com/newsletter). A curated list of awesome PHP libraries and resources.
 * [murze.be newsletter](https://murze.be/newsletter/). A bi weekly newsletter on modern PHP and Laravel.
-* [Laravel Daily](http://laraveldaily.com/weekly-laravel-newsletter/) Weekly tips and tricks from Laravel community.
+* [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) Weekly tips and tricks from Laravel community.
 
 ### Python
 * [Python Weekly](https://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
@@ -263,7 +262,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Docker Weekly](https://www.docker.com/newsletter-subscription). Weekly newsletter filled with great updates from Docker, our users and ecosystem.
 
 ### Devops
-* [DevOps Weekly](http://www.devopsweekly.com/). A weekly slice of devops news.
+* [DevOps Weekly](https://www.devopsweekly.com/). A weekly slice of devops news.
 * [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/). The best DevOps links of the week delivered to your inbox
 every Sunday in the form of the DevOps newsletter.
 * [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
@@ -279,7 +278,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
 * [Your weekly Azure news fix](http://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 * [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
-* [Google Cloud Weekly Newsletter](https://www.the-swamp.info/newsletter/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
+* [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
 
 ### Kubernetes
 * [kubelist](https://kubelist.com). Your curated weekly kubernetes information reconciliation loop.
@@ -288,14 +287,14 @@ every Sunday in the form of the DevOps newsletter.
 
 ## Mobile
 * [Mobile Web Weekly](https://mobiledevweekly.com/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
-* [Android Weekly](http://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
+* [Android Weekly](https://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
 * [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 * [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
 
 ## Artificial Intelligence / Machine Learning / Big Data
 * [Data Science Weekly Newsletter](https://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
-* [Hadoop Weekly](https://www.hadoopweekly.com/). Summary of the week's top news in the Apache Hadoop™ ecosystem.
-* [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/issues).
+* [Data Eng Weekly](https://dataengweekly.com). Your weekly Data Engineering news (Formerly Hadoop Weekly). [Archive](https://dataengweekly.com/archive.html).
+* [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
 * [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml). A weekly AI & Deep Learning newsletter.
 * [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
@@ -312,7 +311,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Finimize](http://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
 
 ## Awesome news
-* [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
+* [HackerNewsLetter](https://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
 * [Reddit's Official Newsletter](https://www.reddit.com/newsletter). Best of reddit's content curated, packaged, and delivered to your inbox once a week.
 * [The ChangeLog Weekly](https://changelog.com/weekly). A weekly newsletter, covering everything that hits open source radar.
 * [GitHub News](https://www.gitlogs.com/). Discover top trending repos at GitHub, detected by a peak detection algorithm.
@@ -331,7 +330,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
 * [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
 * [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
-* [Web Audio Weekly](http://www.webaudioweekly.com/). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
+* [Web Audio Weekly](https://www.webaudioweekly.com/). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
 * [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
 * [Founders Grid](https://foundersgrid.com/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 * [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
