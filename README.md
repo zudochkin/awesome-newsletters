@@ -291,6 +291,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Android Weekly](https://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
 * [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 * [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
+* [Flutter Weekly](https://flutterweekly.net/). A weekly newsletter for flutter fans by flutter fans.
 
 ## Artificial Intelligence / Machine Learning / Big Data
 * [Data Science Weekly Newsletter](https://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
