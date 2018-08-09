@@ -304,6 +304,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Data Prism](http://dataprism.co/). Data Prism is a weekly publication of curated news about startups and companies in the fields of data science, machine learning, AI and analytics.
 
 ## Technology in General
+* [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
 * [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
 * [DevCraft](https://devcraftweekly.com/). A weekly newsletter on the art, craft and lifestyle of Software Engineering.
 * [Four Short Links](https://www.oreilly.com/feed/four-short-links). 4 short links about (mostly research oriented) technology every weekday.
