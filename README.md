@@ -312,6 +312,7 @@ every Sunday in the form of the DevOps newsletter.
 
 ## Business/Finance
 * [Finimize](http://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
+* [The Pricing Newsletter](https://taprun.com/newsletter/). Q&As, lessons, and news articles to help startups and business owners understand how to implement pricing strategy.
 
 ## Awesome news
 * [HackerNewsLetter](https://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
