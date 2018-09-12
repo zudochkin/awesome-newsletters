@@ -193,6 +193,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome PHP Newsletter](https://php.libhunt.com/newsletter). A curated list of awesome PHP libraries and resources.
 * [murze.be newsletter](https://murze.be/newsletter/). A bi weekly newsletter on modern PHP and Laravel.
 * [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) Weekly tips and tricks from Laravel community.
+* [La semana PHP](https://www.lasemanaphp.com/). A weekly collection of news, tutorials and information in Spanish about PHP and its ecosystem: Laravel, Symfony, WordPress, Drupal, ... Manually selected by Jesús Amieiro.
 
 ### Python
 * [Python Weekly](https://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
