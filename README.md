@@ -315,6 +315,7 @@ every Sunday in the form of the DevOps newsletter.
 ## Business/Finance
 * [Finimize](http://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
 * [The Pricing Newsletter](https://taprun.com/newsletter/). Q&As, lessons, and news articles to help startups and business owners understand how to implement pricing strategy.
+* [FBA monthly](https://fbamonthly.com/). FBA Monthly is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses. Only actual news, solutions, strategies, seller-to-seller tips and much more. 
 
 ## Awesome news
 * [HackerNewsLetter](https://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
