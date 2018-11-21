@@ -1,4 +1,4 @@
-# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
+# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
 A curated list of awesome newsletters.
 
@@ -6,9 +6,9 @@ Inspired by the `awesome-*` trend on GitHub.
 
 The goal is to build a categorized community-driven collection of very well-known resources.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vredniy/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/graphs/contributors).
+Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 
 - [Frontend](#frontend)
@@ -108,7 +108,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 #### VueJS
 * [Vue.js Newsletter](https://news.vuejs.org). Weekly dose of handpicked Vue.js news.
-* [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/). A weekly curated publication of the best articles, latest news and coolest Vue projects.
+* [Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers). A weekly curated publication of the best articles, latest news and coolest Vue projects.
 
 ### Data Visualization
 * [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
@@ -199,7 +199,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Python
 * [Python Weekly](https://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
 * [Weekly Python Newsletter](https://importpython.com/newsletter/). Weekly Python Newsletter containing Python Articles, Projects, Videos, Tweets delivered in your inbox.
-* [Pycoders Weekly](https://www.pycoders.com/). A free weekly e-mail newsletter, on Fridays, for those interested in python development and various topics around python.
+* [Pycoders Weekly](https://pycoders.com/). A free weekly e-mail newsletter, on Fridays, for those interested in python development and various topics around python.
 * [Awesome Python Newsletter](https://python.libhunt.com/newsletter). A weekly overview of the most popular Python news, articles and packages.
 
 ### Groovy
@@ -319,7 +319,6 @@ every Sunday in the form of the DevOps newsletter.
 
 ## Awesome news
 * [HackerNewsLetter](https://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
-* [Reddit's Official Newsletter](https://www.reddit.com/newsletter). Best of reddit's content curated, packaged, and delivered to your inbox once a week.
 * [ChangeLog Weekly](https://changelog.com/weekly). A weekly newsletter, covering everything that hits open source radar.
 * [GitHub News](https://www.gitlogs.com/). Discover top trending repos at GitHub, detected by a peak detection algorithm.
 * Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
