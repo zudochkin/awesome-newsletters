@@ -70,6 +70,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 * [Front End Newsletter](http://frontendnewsletter.com/). The free, weekly newsletter of the best Front End related news, articles, projects, and more. JavaScript, React, Angular, Ember, Polymer, Meteor, RxJS, Elm, and more. [Archive](http://frontendnewsletter.com/issues).
 * [Dev Tips](https://umaar.com/dev-tips/). A developer tip, in the form of a gif, in your inbox each week.
 * [Friday Front-end](https://zendev.com/friday-frontend.html). 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff. [Archive](https://zendev.com/category/friday-frontend.html)
+* [Unreadit/Frontend](https://unread.it/n/frontend/). Best frontend development news sourced from the best subreddits.
+
 
 ### General Web Development
 * [Weekend Reading](https://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
@@ -140,6 +142,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 * [Design Systems News](http://news.design.systems/). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide. [Archive](http://news.design.systems/issues).
 * [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 * [Design Systems Weekly](https://designsystems.email/). Get the latest on how others are building, scaling and preventing entropy in their design systems delivered to your inbox.
+* [Unreadit/Design](https://unread.it/n/design/). Design inspiration and great design-related content sourced from the best subreddits.
 
 ### HTML5
 * [FrontEnd Focus](https://frontendfoc.us). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
@@ -356,6 +359,8 @@ every Sunday in the form of the DevOps newsletter.
 * [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
 * [Inside Bitcoin](https://inside.com/bitcoin). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
 * [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
+* [Unreadit/Tech](https://unread.it/n/tech/). Hardware and software news for tech junkies from the best posts on Reddit.
+* [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 
 
 # License
