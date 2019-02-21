@@ -78,7 +78,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 * [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
 * [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
 * [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform.
-* [Versioning](https://versioning.substack.com). Stay entertained and up to date about all things web dev and design with a daily email.
 
 ### JavaScript
 * [JavaScript Weekly](https://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](https://javascriptweekly.com/issues).
@@ -106,7 +105,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 * [AngularJS Weekly Newsletter](https://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
 
 #### EmberJS
-* [EmberJS Weekly](http://www.emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
+* [EmberJS Weekly](https://www.emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
 
 #### VueJS
 * [Vue.js Newsletter](https://news.vuejs.org). Weekly dose of handpicked Vue.js news.
@@ -186,7 +185,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### Ruby
 * [Ruby Weekly](https://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
-* [Ruby posts by Thoughtbot](https://robots.thoughtbot.com/tags/ruby)
+* [Ruby posts by Thoughtbot](https://thoughtbot.com/blog/tags/ruby)
 * [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 * [Volt Framework](http://voltframework.com/). Volt is a framework for building data rich web applications shockingly fast.
 * [Green Ruby News](http://greenruby.org/). A feed of fresh links of the week about ruby, javascript, webdev, devops, collected by mose, xenor and tysliu every Sunday.
@@ -276,12 +275,11 @@ every Sunday in the form of the DevOps newsletter.
 * [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
 * [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 * [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
-* [Monitoring Weekly](https://weekly.monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
+* [Monitoring Weekly](https://monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 * [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
 * [Web Operations Weekly](https://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 
 ### Cloud Development
-* [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
 * [Your weekly Azure news fix](http://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 * [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
 * [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
@@ -317,7 +315,7 @@ every Sunday in the form of the DevOps newsletter.
 * [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
 ## Business/Finance
-* [Finimize](http://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
+* [Finimize](https://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
 * [The Pricing Newsletter](https://taprun.com/newsletter/). Q&As, lessons, and news articles to help startups and business owners understand how to implement pricing strategy.
 * [FBA monthly](https://fbamonthly.com/). FBA Monthly is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses. Only actual news, solutions, strategies, seller-to-seller tips and much more. 
 
@@ -338,7 +336,6 @@ every Sunday in the form of the DevOps newsletter.
 * [Stratus Update](https://www.manifold.co/stratusupdate). A weekly take on the rapidly evaporating-and-condensing cloud native landscape. 
 
 ## Etc.
-* [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
 * [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
 * [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
 * [Web Audio Weekly](https://www.webaudioweekly.com/). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
