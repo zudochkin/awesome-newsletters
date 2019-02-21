@@ -335,7 +335,7 @@ every Sunday in the form of the DevOps newsletter.
 * [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 * [Stratus Update](https://www.manifold.co/stratusupdate). A weekly take on the rapidly evaporating-and-condensing cloud native landscape. 
 
-## Etc.
+## Miscellaneous
 * [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
 * [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
 * [Web Audio Weekly](https://www.webaudioweekly.com/). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
