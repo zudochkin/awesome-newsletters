@@ -181,6 +181,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Go
 * [Go Newsletter](https://golangweekly.com/). A weekly newsletter about the Go programming language.
 * [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
+* [Master the World of Golang](https://www.getrevue.co/profile/golang). A weekly newsletter with fine stories about the theories, trends, tools and topics.
 
 ### R
 * [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub](https://github.com/rweekly/rweekly.org).
