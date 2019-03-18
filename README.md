@@ -62,7 +62,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Technology in General](#technology-in-general)
 - [Business/Finance](#businessfinance)
 - [Awesome news](#awesome-news)
-- [Etc.](#etc)
+- [Miscellaneous](#miscellaneous)
+- [Resilience](#resilience)
 - [License](#license)
 
 ## Frontend
@@ -336,6 +337,9 @@ every Sunday in the form of the DevOps newsletter.
 * [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 * [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 * [Stratus Update](https://www.manifold.co/stratusupdate). A weekly take on the rapidly evaporating-and-condensing cloud native landscape.
+
+## Resilience
+* [Resilience Roundup](https://ResilienceRoundup.com). Learn from Resilence Engineering research without having to dig through long, academic papers.
 
 ## Miscellaneous
 * [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
