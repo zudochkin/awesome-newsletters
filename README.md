@@ -15,7 +15,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [General Web Development](#general-web-development)
   - [JavaScript](#javascript)
     - [React](#react)
-    - [AngularJS](#angularjs)
     - [EmberJS](#emberjs)
     - [VueJS](#vuejs)
   - [Data Visualization](#data-visualization)
@@ -102,9 +101,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 * [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
 * [ActReact](https://www.actreact.io). Learn React from the best content in the community, weekly in your inbox.
 * [This Week In React](https://this-week-in-react.org/). Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM. Coming out every Friday.
-
-#### AngularJS
-* [AngularJS Weekly Newsletter](https://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
 
 #### EmberJS
 * [EmberJS Weekly](https://www.emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
@@ -193,7 +189,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 * [Ruby posts by Thoughtbot](https://thoughtbot.com/blog/tags/ruby)
 * [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 * [Volt Framework](http://voltframework.com/). Volt is a framework for building data rich web applications shockingly fast.
-* [Green Ruby News](http://greenruby.org/). A feed of fresh links of the week about ruby, javascript, webdev, devops, collected by mose, xenor and tysliu every Sunday.
 * [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter). A collection of awesome Ruby gems, tools, frameworks and software.
 
 ### PHP
@@ -356,7 +351,6 @@ every Sunday in the form of the DevOps newsletter.
 * [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 * [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
 * [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
-* [Now I Know](http://nowiknow.com/). A free, daily email offering trivia in a neat digest.
 * [The ListServe](http://thelistserve.com/). A free, unique "lottery" newsletter where every day a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
 * [Engineering Impact](https://www.gitprime.com/engineering-impact/). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
 * [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
