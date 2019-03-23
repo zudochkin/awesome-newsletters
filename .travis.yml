@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --skip-save-results -w https://www.gitprime.com/engineering-impact/ --allow-ssl
+  - awesome_bot README.md -w https://resilienceroundup.com --allow-ssl
