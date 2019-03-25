@@ -179,7 +179,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### C
 
-- [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring the top 5 c# links of the week.
+- [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
 - [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
 
 ### Node.js
