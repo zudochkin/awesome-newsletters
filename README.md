@@ -45,6 +45,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [Kotlin](#kotlin)
   - [Lua](#lua)
 - [OS](#os)
+- [Git](#git)
 - [Editors](#editors)
   - [Vim](#vim)
 - [Databases](#databases)
@@ -289,6 +290,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [MacMost](https://macmost.com/macmost-weekly-newsletter). Latest MacMost tutorials, tips and news right in your inbox every week.
 - [NixOS Weekly](https://weekly.nixos.org).
+
+## Git
+
+- [Git Rev News](https://git.github.io/rev_news/rev_news/). Aggregation of activities of the Git mailing list in a format for the wider tech audience.
 
 ## Editors
 
