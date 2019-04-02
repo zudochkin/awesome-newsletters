@@ -226,6 +226,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [murze.be newsletter](https://murze.be/newsletter/). A bi weekly newsletter on modern PHP and Laravel.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) Weekly tips and tricks from Laravel community.
 - [La semana PHP](https://www.lasemanaphp.com/). A weekly collection of news, tutorials and information in Spanish about PHP and its ecosystem: Laravel, Symfony, WordPress, Drupal, ... Manually selected by Jesús Amieiro.
+- [Bootsity Newsletter](https://bootsity.com/). A free one-in-two-weeks newsletter curating great articles, videos and news.
 
 ### Python
 
