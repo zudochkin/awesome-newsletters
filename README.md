@@ -110,7 +110,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 #### EmberJS
 
-- [EmberJS Weekly](https://www.emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
+- [The Ember Times](https://the-emberjs-times.ongoodbits.com/) Updates from the Ember.js Learning Team.
+- [Ember Weekly](https://www.emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
 
 #### VueJS
 
