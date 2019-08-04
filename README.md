@@ -93,6 +93,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - [TypeScript Weekly](https://www.typescript-weekly.com/). The best TypeScript links every week, right in your box.
 - [JSter](http://jster.net/blog). No nonsense list of curated JavaScript links to your mailbox once every two weeks. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
+- [Best of JavaScript](https://weekly.bestofjs.org/) Weekly rankings about the most popular open-source projects related to Node.js and the web platform.
 
 #### React
 
