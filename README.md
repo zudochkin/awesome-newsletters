@@ -386,6 +386,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Inside Bitcoin](https://inside.com/bitcoin). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
 - [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
+- [Build Blockchain](https://www.buildblockchain.tech/newsletter). Blockchain tech without the bull— a weekly dose of blockchain reality with a heavy bias toward the technical.
 
 ## Technology in General
 
