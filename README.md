@@ -189,7 +189,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Node.js
 
 - [Node Weekly](https://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
-- [npm Weekly](https://www.npmjs.com/npm-weekly)
+- [npm Weekly](https://www.npmjs.com/npm-weekly). What we’re working on, thinking about, and talking about NPM
 - [Awesome Node.js Newsletter](https://nodejs.libhunt.com/newsletter). A weekly overview of the most popular Node.js news, articles and packages.
 
 ### Swift
@@ -217,7 +217,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Ruby
 
 - [Ruby Weekly](https://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
-- [Ruby posts by Thoughtbot](https://thoughtbot.com/blog/tags/ruby)
+- [Ruby Articles](https://thoughtbot.com/blog/tags/ruby). Ruby posts by [Thoughtbot](https://thoughtbot.com)
 - [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 - [Volt Framework](http://voltframework.com/). Volt is a framework for building data rich web applications shockingly fast.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter). A collection of awesome Ruby gems, tools, frameworks and software.
@@ -288,13 +288,12 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### Lua
 
-- [Lua Digest](https://luadigest.immortalin.com).
-  A regular newsletter for the Lua Programming Language.
+- [Lua Digest](https://luadigest.immortalin.com). A regular newsletter for the Lua Programming Language.
 
 ## OS
 
 - [MacMost](https://macmost.com/macmost-weekly-newsletter). Latest MacMost tutorials, tips and news right in your inbox every week.
-- [NixOS Weekly](https://weekly.nixos.org).
+- [NixOS Weekly](https://weekly.nixos.org). Latest News for [NixOS](https://nixos.org)
 
 ## Git
 
@@ -340,7 +339,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/). The best DevOps links of the week delivered to your inbox
   every Sunday in the form of the DevOps newsletter.
 - [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
-- [Server Admin for Programmers](https://serversforhackers.com/)
+- [Server Admin for Programmers](https://serversforhackers.com/). Teaching the server tech you need for development and production. Eliminating the frustration of server configuration.
 - [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins. [Archige](https://www.cronweekly.com/archives/).
 - [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 - [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
@@ -411,8 +410,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [HackerNewsLetter](https://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
 - [ChangeLog Weekly](https://changelog.com/weekly). A weekly newsletter, covering everything that hits open source radar.
 - [GitHub News](https://www.gitlogs.com/). Discover top trending repos at GitHub, detected by a peak detection algorithm.
-- Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
-- Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
+- [TED](https://www.ted.com/newsletter). Inspiration in your inbox by TED
+- [KickStarter](https://www.kickstarter.com/newsletters). Projects We Love archive by KickStarter
 - [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
 - A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
 - [My Morning Routine](https://mymorningroutine.com/). My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.
