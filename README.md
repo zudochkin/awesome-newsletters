@@ -444,6 +444,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Unreadit/Tech](https://unread.it/n/tech/). Hardware and software news for tech junkies from the best posts on Reddit.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 - [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
+- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
+
 
 # License
 
