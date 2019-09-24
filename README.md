@@ -136,7 +136,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Design
 
 - [Web Design Weekly](https://web-design-weekly.com/). Just pure awesome links to the best news and articles to hit the interweb during the week.
-- [Product Design Weekly](http://designweekly.atomic.io/). Digital product design news, articles, showcases and resources, delivered straight to your inbox once a week.
 - [Sidebar](https://sidebar.io). Five design-centric posts each day.
 - [Web Designer News](https://www.webdesignernews.com). Curated stories for designers.
 - [Responsive Design Weekly](http://responsivedesignweekly.com). A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
@@ -151,7 +150,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Web Animation Weekly](http://webanimationweekly.com/). A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
 - [Design Systems News](http://news.design.systems/). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide. [Archive](http://news.design.systems/issues).
 - [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
-- [Design Systems Weekly](https://designsystems.email/). Get the latest on how others are building, scaling and preventing entropy in their design systems delivered to your inbox.
 - [Unreadit/Design](https://unread.it/n/design/). Design inspiration and great design-related content sourced from the best subreddits.
 - [realusers.club](https://realusers.club). Real user interviews, delivered weekly.
 
@@ -171,7 +169,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html). Receive weekly Programming news and insights from industry insiders.
 - [Programming Digest](https://programmingdigest.net/). A weekly newsletter for software engineers featuring top 5 links. [Archive](https://programmingdigest.net/digests).
-- [Morning Cup of Coding](https://www.humanreadablemag.com/morningcupofcoding). A daily newsletter featuring long-form technical articles of all fields of programming.
+- [Morning Cup of Coding](https://morningcupofcoding.com). A daily newsletter featuring long-form technical articles of all fields of programming.
 - [Weekly Dev Tips](https://ardalis.com/tips). A weekly email each Wednesday with a new software development tip from [Steve "ardalis" Smith](https://twitter.com/ardalis). Topics range from git to career to web development to personal development and teamwork.
 - [LLVM Weekly](http://llvmweekly.org). A weekly newsletter covering developments in LLVM, Clang, and related projects.
 - [Discover dev](https://www.discoverdev.io). Weekly digest of the best engineering blogs from across the web. [Archive](https://www.discoverdev.io/archive).
@@ -198,7 +196,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week. [Archive](https://iosdevweekly.com/issues).
 - [Swift Weekly Brief](https://swiftweekly.github.io). A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday.
 - [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter). A curated list of awesome swift libraries and resources.
-- [The Swift by Sundell](https://www.swiftbysundell.com/newsletter). Introducing the Swift by Sundell monthly newsletter!
+- [The Swift by Sundell](https://www.swiftbysundell.com/newsletter/). Introducing the Swift by Sundell monthly newsletter!
 - [iOS Goodies](https://ios-goodies.com). Weekly iOS newsletter. [Archive](https://ios-goodies.com/archive).
 - [Indie iOS Focus Weekly](https://indieiosfocus.com). Best iOS development, marketing, Swift, design, and Xcode links. [Archive](https://indieiosfocus.com/issues).
 - [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
@@ -227,7 +225,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [PHP Weekly](http://www.phpweekly.com/). A free once-a-week newsletter, featuring some great articles, news and blog posts.
 - [Laravel News](https://laravel-news.com/). Every week lots of tips, tutorials, and packages are released for Laravel.
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter). A curated list of awesome PHP libraries and resources.
-- [murze.be newsletter](https://murze.be/newsletter/). A bi weekly newsletter on modern PHP and Laravel.
+- [Freek.dev](https://freek.dev/newsletter/). A bi weekly newsletter on modern PHP and Laravel.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) Weekly tips and tricks from Laravel community.
 - [La semana PHP](https://www.lasemanaphp.com/). A weekly collection of news, tutorials and information in Spanish about PHP and its ecosystem: Laravel, Symfony, WordPress, Drupal, ... Manually selected by Jesús Amieiro.
 - [Bootsity Newsletter](https://bootsity.com/). A free one-in-two-weeks newsletter curating great articles, videos and news.
@@ -345,14 +343,14 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
 - [Monitoring Weekly](https://monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 - [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
-- [Web Operations Weekly](https://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
+- [StatusCode Weekly](https://weekly.statuscode.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 
 ### Cloud Development
 
 - [Your weekly Azure news fix](https://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 - [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
-- [Last Week in AWS](https://lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
+- [Last Week in AWS](https://www.lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
 
 ### Kubernetes
 
@@ -393,7 +391,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
 - [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
 - [DevCraft](https://devcraftweekly.com/). A weekly newsletter on the art, craft and lifestyle of Software Engineering.
-- [Four Short Links](https://www.oreilly.com/feed/four-short-links). 4 short links about (mostly research oriented) technology every weekday.
+- [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/). 4 short links about (mostly research oriented) technology every weekday.
 - [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 - [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
 
@@ -401,7 +399,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Finimize](https://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
 - [The Pricing Newsletter](https://taprun.com/newsletter/). Q&As, lessons, and news articles to help startups and business owners understand how to implement pricing strategy.
-- [FBA monthly](https://fbamonthly.com/). FBA Monthly is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses. Only actual news, solutions, strategies, seller-to-seller tips and much more.
+- [FBA monthly](https://www.fbamonthly.com/). FBA Monthly is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses. Only actual news, solutions, strategies, seller-to-seller tips and much more.
 - [Capital minded](https://capitalminded.com). Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
 - [AngelList Weekly](https://angel.co/newsletters). The best of the startup world, curated weekly.
 - [Startup Curated](https://startup.curated.co). The startup community’s newsletter with the best content from and for founders. [Archive](https://startup.curated.co/issues).
@@ -414,7 +412,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [TED](https://www.ted.com/newsletter). Inspiration in your inbox by TED
 - [KickStarter](https://www.kickstarter.com/newsletters). Projects We Love archive by KickStarter
 - [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
-- A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
 - [My Morning Routine](https://mymorningroutine.com/). My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.
 - [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
@@ -433,7 +430,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
 - [Web Audio Weekly](https://www.webaudioweekly.com/). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
 - [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
-- [Founders Grid](https://foundersgrid.com/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
+- [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 - [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
 - [Hacking Revenue](http://hackingrevenue.com/). One email a week with carefully curated insights to scale up your business.
 - [Changelog Nightly](https://changelog.com/nightly). An email, every night at 10pm CT, that unearths the hottest new repos on GitHub.
@@ -450,7 +447,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 - [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
-
 
 # License
 
