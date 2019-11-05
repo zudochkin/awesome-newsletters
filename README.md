@@ -390,7 +390,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
 - [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
-- [DevCraft](https://devcraftweekly.com/). A weekly newsletter on the art, craft and lifestyle of Software Engineering.
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/). 4 short links about (mostly research oriented) technology every weekday.
 - [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 - [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
