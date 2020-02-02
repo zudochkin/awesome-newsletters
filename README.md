@@ -424,6 +424,12 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Resilience Roundup](https://resilienceroundup.com). Learn from Resilence Engineering research without having to dig through long, academic papers.
 
+## Security
+- [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
+- [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&id=a2457dc8ad). a weekly tl;dr cybersecurity newsletter including news, the happy corner, your weekly cyber-cat, and more. It's sent every Sunday.
+- [Morning Hacked](https://morninghacked.com/). Cybersecurity news in your inbox every weekday, in the morning (Eastern Time).
+- [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa). A daily summary of 10 Information Security news items that aren't necessarily getting a lot of attention.
+
 ## Miscellaneous
 
 - [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
@@ -437,11 +443,9 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 - [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
-- [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
 - [The ListServe](http://thelistserve.com/). A free, unique "lottery" newsletter where every day a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
 - [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
-- [Security Newsletter](https://securitynewsletter.co/). Weekly e-mail with the latest security news on Thursday or Friday.
 - [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
 - [Unreadit/Tech](https://unread.it/n/tech/). Hardware and software news for tech junkies from the best posts on Reddit.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
