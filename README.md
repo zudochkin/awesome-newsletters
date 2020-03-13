@@ -39,7 +39,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [Haskell](#haskell)
   - [Elm](#elm)
   - [Rust](#rust)
-  - [C++](#c)
+  - [C/C++](#cc)
   - [Scala](#scala)
   - [Java](#java)
   - [Kotlin](#kotlin)
@@ -180,7 +180,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [ObjC](https://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
 - [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter). A curated list of awesome iOS libraries, including Objective-C and Swift Projects.
 
-### C
+### C# #
 
 - [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
 - [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
@@ -269,7 +269,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [This Week in Rust](https://this-week-in-rust.org). Stay up to date with events, learning resources, and recent developments in Rust community. [Archive](https://this-week-in-rust.org/blog/archives/index.html).
 - [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter). A curated list of Rust libraries and resources.
 
-### C++
+### C/C++
 
 - [Awesome C++ Newsletter](https://cpp.libhunt.com/newsletter). A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things.
 
