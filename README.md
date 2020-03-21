@@ -78,6 +78,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### General Web Development
 
+- [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative news projects and libraries in Web Development and design
 - [Weekend Reading](https://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
 - [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
 - [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
