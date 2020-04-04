@@ -74,7 +74,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Front End Newsletter](http://frontendnewsletter.com/). The free, weekly newsletter of the best Front End related news, articles, projects, and more. JavaScript, React, Angular, Ember, Polymer, Meteor, RxJS, Elm, and more. [Archive](http://frontendnewsletter.com/issues).
 - [Dev Tips](https://umaar.com/dev-tips/). A developer tip, in the form of a gif, in your inbox each week.
 - [Friday Front-end](https://zendev.com/friday-frontend.html). 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff. [Archive](https://zendev.com/category/friday-frontend.html)
-- [Unreadit/Frontend](https://unread.it/n/frontend/). Best frontend development news sourced from the best subreddits.
+- [Unreadit/Frontend](https://unread.com/n/frontend/). Best frontend development news sourced from the best subreddits.
 
 ### General Web Development
 
@@ -149,7 +149,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Web Animation Weekly](http://rachelnabors.com/). A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
 - [Design Systems News](http://news.design.systems/). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide. [Archive](http://news.design.systems/issues).
 - [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
-- [Unreadit/Design](https://unread.it/n/design/). Design inspiration and great design-related content sourced from the best subreddits.
+- [Unreadit/Design](https://unread.com/n/design/). Design inspiration and great design-related content sourced from the best subreddits.
 - [realusers.club](https://realusers.club). Real user interviews, delivered weekly.
 
 ### HTML5
@@ -447,7 +447,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
 - [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
 - [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
-- [Unreadit/Tech](https://unread.it/n/tech/). Hardware and software news for tech junkies from the best posts on Reddit.
+- [Unreadit/Tech](https://unread.com/n/tech/). Hardware and software news for tech junkies from the best posts on Reddit.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 - [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
