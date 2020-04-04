@@ -432,7 +432,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
 - [Founders Grid](https://smash.vc/startup-newsletter/ ). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 - [Software Lead Weekly](https://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
-- [Hacking Revenue](http://hackingrevenue.com/). One email a week with carefully curated insights to scale up your business.
 - [Changelog Nightly](https://changelog.com/nightly). An email, every night at 10pm CT, that unearths the hottest new repos on GitHub.
 - [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
