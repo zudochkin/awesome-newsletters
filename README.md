@@ -238,7 +238,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### Perl
 
-- [Perl Weekly](http://perlweekly.com/). A free, once a week e-mail round-up of hand-picked news and articles about Perl.
+- [Perl Weekly](https://perlweekly.com/). A free, once a week e-mail round-up of hand-picked news and articles about Perl.
 
 ### Elixir
 
