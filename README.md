@@ -386,6 +386,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Inside Bitcoin](https://inside.com/bitcoin). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
 - [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter). Blockchain tech without the bull— a weekly dose of blockchain reality with a heavy bias toward the technical.
+- [Chain Letter](https://technologyreview.us11.list-manage.com/subscribe?u=47c1a9cec9749a8f8cbc83e78&id=e2349bbf6b). MIT Technology Review's The Chain Letter. The author [Mike Orcutt](https://twitter.com/mike_orcutt) writes about what’s new in the world of blockchains and cryptocurrencies and why they matter. The MIT Technology review issues several other newsletters
 
 ## Technology in General
 
