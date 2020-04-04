@@ -333,7 +333,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   every Sunday in the form of the DevOps newsletter.
 - [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
 - [Server Admin for Programmers](https://serversforhackers.com/). Teaching the server tech you need for development and production. Eliminating the frustration of server configuration.
-- [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins. [Archige](https://www.cronweekly.com/archives/).
+- [Cron.Weekly](https://ma.ttias.be/cronweekly/). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins. [Archige](https://www.cronweekly.com/archives/).
 - [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 - [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
 - [Monitoring Weekly](https://monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
