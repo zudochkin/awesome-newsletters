@@ -137,7 +137,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Web Design Weekly](https://web-design-weekly.com/). Just pure awesome links to the best news and articles to hit the interweb during the week.
 - [Sidebar](https://sidebar.io). Five design-centric posts each day.
 - [Web Designer News](https://www.webdesignernews.com). Curated stories for designers.
-- [Responsive Design Weekly](http://responsivedesignweekly.com). A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
+- [Responsive Design Weekly](https://responsivedesign.is/newsletter/). A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
 - [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
 - [UI Movement](https://uimovement.com). Only the best UI design inspiration, right in your inbox.
 - [Designer News](https://www.designernews.co). Where the design community meets.
