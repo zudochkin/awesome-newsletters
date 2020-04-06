@@ -153,6 +153,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 - [Unreadit/Design](https://unread.it/n/design/). Design inspiration and great design-related content sourced from the best subreddits.
 - [realusers.club](https://realusers.club). Real user interviews, delivered weekly.
+- [Figmalion](https://figmalion.com). A biweekly curated newsletter about [Figma](https://www.figma.com/).
 
 ### HTML5
 
