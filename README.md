@@ -111,6 +111,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [ActReact](https://www.actreact.io). Learn React from the best content in the community, weekly in your inbox.
 - [This Week In React](https://this-week-in-react.org/). Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM. Coming out every Friday.
 - [Tiny React](https://tinyreact.email). Top 3 React articles of the week in your inbox.
+- [React Explained](https://www.getrevue.co/profile/react-explained). A weekly newsletter for people learning React.
 
 #### EmberJS
 
