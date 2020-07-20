@@ -458,6 +458,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
 - [Solo Founder](http://solofounder.dev/). A weekly newsletter focused on startups founded by solo founders. We feature interviews with different founders each week along with curating a handful of links of tools and resources to help founders grow their businesses.
+- [Trending Projects](https://www.trendingprojects.com/) A weekly email showcasing trending projects on GitHub.
 
 # License
 
