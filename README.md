@@ -75,7 +75,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Dev Tips](https://umaar.com/dev-tips/). A developer tip, in the form of a gif, in your inbox each week.
 - [Friday Front-end](https://zendev.com/friday-frontend.html). 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff. [Archive](https://zendev.com/category/friday-frontend.html)
 - [Unreadit/Frontend](https://unread.it/n/frontend/). Best frontend development news sourced from the best subreddits.
-- [The UI Development Mentoring Newsletter](https://mentor.silvestar.codes/reads). A weekly newsletter about user interface frontend development and freelancing.
+- [UI Dev Newsletter](https://mentor.silvestar.codes/reads). A hand-curated list of articles, tutorials, opinions, and tools related to User Interface development.
 
 ### General Web Development
 
