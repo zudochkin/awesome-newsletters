@@ -1,4 +1,4 @@
-# Awesome Newsletters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
+# Awesome Newsletters [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
 A curated list of awesome newsletters.
 
@@ -179,6 +179,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Weekly Dev Tips](https://ardalis.com/tips). A weekly email each Wednesday with a new software development tip from [Steve "ardalis" Smith](https://twitter.com/ardalis). Topics range from git to career to web development to personal development and teamwork.
 - [LLVM Weekly](http://llvmweekly.org). A weekly newsletter covering developments in LLVM, Clang, and related projects.
 - [Discover dev](https://www.discoverdev.io). Weekly digest of the best engineering blogs from across the web. [Archive](https://www.discoverdev.io/archive).
+- [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly in-depth code-review related write-up.
 
 ### ObjectiveC
 
