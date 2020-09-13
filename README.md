@@ -373,6 +373,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 - [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
 - [Flutter Weekly](https://flutterweekly.net/). A weekly newsletter for flutter fans by flutter fans.
+- [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers (iOS/Android/Flutter/React Native).
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
