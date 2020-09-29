@@ -99,7 +99,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [TypeScript Weekly](https://www.typescript-weekly.com/). The best TypeScript links every week, right in your box.
 - [JSter](http://jster.net/blog). No nonsense list of curated JavaScript links to your mailbox once every two weeks. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
 - [Best of JavaScript](https://weekly.bestofjs.org/) Weekly rankings about the most popular open-source projects related to Node.js and the web platform.
-- [Next.js News](https://nextjsnews.com). Next.js focused newsletter sent every month. Contains reviews of upcoming features, best articles, tools, and plugins.
 
 #### React
 
@@ -115,6 +114,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [This Week In React](https://this-week-in-react.org/). Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM. Coming out every Friday.
 - [Tiny React](https://tinyreact.email). Top 3 React articles of the week in your inbox.
 - [React Explained](https://www.getrevue.co/profile/react-explained). A weekly newsletter for people learning React.
+- [Next.js News](https://nextjsnews.com). Next.js focused newsletter sent every month. Contains reviews of upcoming features, best articles, tools, and plugins.
 
 #### EmberJS
 
