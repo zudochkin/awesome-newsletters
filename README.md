@@ -438,7 +438,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ## Security
 - [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
 - [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&id=a2457dc8ad). a weekly tl;dr cybersecurity newsletter including news, the happy corner, your weekly cyber-cat, and more. It's sent every Sunday.
-- [Morning Hacked](https://morninghacked.com/). Cybersecurity news in your inbox every weekday, in the morning (Eastern Time).
 - [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa). A daily summary of 10 Information Security news items that aren't necessarily getting a lot of attention.
 - [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
 
