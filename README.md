@@ -181,6 +181,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [LLVM Weekly](http://llvmweekly.org). A weekly newsletter covering developments in LLVM, Clang, and related projects.
 - [Discover dev](https://www.discoverdev.io). Weekly digest of the best engineering blogs from across the web. [Archive](https://www.discoverdev.io/archive).
 - [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly in-depth code-review related write-up.
+- [Active forks](https://activeforks.net). A weekly newsletter for open source enthusiats with a list of repositories and their recently active forks.
 
 ### ObjectiveC
 
