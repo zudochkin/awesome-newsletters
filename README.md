@@ -100,6 +100,9 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [JSter](http://jster.net/blog). No nonsense list of curated JavaScript links to your mailbox once every two weeks. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
 - [Best of JavaScript](https://weekly.bestofjs.org/) Weekly rankings about the most popular open-source projects related to Node.js and the web platform.
 
+#### Angular
+- [Angular Newsletter](http://cur.ng-newsletter.com/) The free, weekly newsletter of the best Angular content on the web. Hand-picked content by the experts in Angular - delivered directly to your inbox.
+
 #### React
 
 - [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
