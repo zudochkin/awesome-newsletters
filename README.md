@@ -217,6 +217,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 - [Master the World of Golang](https://www.getrevue.co/profile/golang). A weekly newsletter with fine stories about the theories, trends, tools and topics.
 - [Go Gazette](http://www.go-gazette.com/). Weekly curated blogs and tools for Golang seniors.
+- [GoNotícias](https://gonoticias.substack.com/). A weekly newsletter about the Go programming language in Portuguese.
 
 ### R
 
