@@ -21,6 +21,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [Design](#design)
   - [HTML5](#html5)
   - [SVG](#svg)
+  - [GraphQL](#graphql)
 - [Programming](#programming)
   - [Common Section](#common-section)
   - [ObjectiveC](#objectivec)
