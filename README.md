@@ -51,7 +51,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [Vim](#vim)
 - [Databases](#databases)
   - [PostgreSQL](#postgresql)
-  - [MySQL](#mysql)
   - [Redis](#redis)
   - [NoSQL](#nosql)
 - [Backend Development](#backend-development)
@@ -328,10 +327,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### PostgreSQL
 
 - [Postgres Weekly](https://postgresweekly.com/). A free, once–weekly e-mail round-up of PostgreSQL news and articles.
-
-### MySQL
-
-- [Weekly MySQL News](http://mysqlnewsletter.com/). Unofficial Weekly News Digest of all things MySQL.
 
 ### Redis
 
