@@ -79,7 +79,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### General Web Development
 
-- [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative news projects and libraries in Web Development and design
 - [Weekend Reading](https://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
 - [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
 - [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
@@ -88,6 +87,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Insnippets](https://insnippets.com). A daily newsletter with TL;DR information about interesting topics around web development, Devops and distributed systems.
 - [JAMstacked](https://jamstack.email/). An email update on the evolving JAMstack ecosystem.
 - [FreeCodeCamp](https://www.freecodecamp.org). Weekly selection of five articles, videos or entire courses from FreeCodeCamp learning platform.
+- [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative new projects and libraries in web development and design.
 
 ### JavaScript
 
