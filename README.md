@@ -171,6 +171,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
 
+### GraphQL
+
+- [GraphQL Weekly](https://www.graphqlweekly.com/). A weekly newsletter highlighting resources and news from the GraphQL community.
+
 ## Programming
 
 ### Common Section
