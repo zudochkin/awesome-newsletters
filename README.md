@@ -140,6 +140,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [CSS-Tricks](https://css-tricks.com). signup is at the bottom of the page right under the **Get the newsletter** header!.
 - [CSS Layout News](http://csslayout.news/). A weekly collection of tutorials, news and information on all things CSS Layout.
 - [Sass News](http://sass.news). Get the latest and greatest news, tutorials, and code examples on all Sass-y greatness. [Archive](http://sass.news/issues).
+- [Tailwind Weekly](https://tailwindweekly.com/). Weekly newsletter about all things TailwindCSS.
 
 ### Design
 
