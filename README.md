@@ -458,7 +458,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 - [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
-- [The ListServe](http://thelistserve.com/). A free, unique "lottery" newsletter where every day a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
+- [Kleroteria](https://www.kleroteria.org). A free, unique "lottery" newsletter where a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
 - [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
 - [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
