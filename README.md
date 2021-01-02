@@ -210,7 +210,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter). A curated list of awesome swift libraries and resources.
 - [The Swift by Sundell](https://www.swiftbysundell.com/newsletter/). Introducing the Swift by Sundell monthly newsletter!
 - [iOS Goodies](https://ios-goodies.com). Weekly iOS newsletter. [Archive](https://ios-goodies.com/archive).
-- [Indie iOS Focus Weekly](https://indieiosfocus.com). Best iOS development, marketing, Swift, design, and Xcode links. [Archive](https://indieiosfocus.com/issues).
+- [Indie iOS Focus Weekly](https://indieiosfocus.com). Best iOS development, marketing, Swift, design, and Xcode links.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
 
 ### Go
