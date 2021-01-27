@@ -434,6 +434,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 - [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 - [Stratus Update](https://www.manifold.co/stratusupdate). A weekly take on the rapidly evaporating-and-condensing cloud native landscape.
+- [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
 
 ## Resilience
 
