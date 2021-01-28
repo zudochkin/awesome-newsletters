@@ -84,6 +84,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
 - [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform. [Archive](https://ponyfoo.com/weekly/history).
 - [Dev Awesome](https://devawesome.io/). Get the latest programming news, cool libraries and productivity tips in your inbox every two weeks.
+- [Insnippets](https://insnippets.com). A daily newsletter with TL;DR information about interesting topics around web development, Devops and distributed systems.
 - [JAMstacked](https://jamstack.email/). An email update on the evolving JAMstack ecosystem.
 - [FreeCodeCamp](https://www.freecodecamp.org). Weekly selection of five articles, videos or entire courses from FreeCodeCamp learning platform.
 - [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative new projects and libraries in web development and design.
@@ -295,6 +296,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Kotlin
 
 - [Awesome Kotlin Newsletter](https://kotlin.libhunt.com/newsletter). A weekly overview of the most popular Kotlin news, articles and libraries.
+- [Kotlin Weekly](http://www.kotlinweekly.net/). The weekly newsletter for Kotlin developers, with articles, libraries, videos and podcasts from the Kotlin environment.
 
 ### Lua
 
@@ -336,6 +338,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### Docker
 
+- [NoSQL Weekly](https://www.nosqlweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to NoSQL.
 - [Docker Weekly](https://www.docker.com/newsletter-subscription). Weekly newsletter filled with great updates from Docker, our users and ecosystem.
 
 ### Devops
@@ -380,6 +383,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
 - [The Wild Week in AI](https://www.getrevue.co/profile/wildml). A weekly AI & Deep Learning newsletter. [Archive](https://www.getrevue.co/profile/wildml#archive).
+- [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
 - [Inside AI](https://inside.com/ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
