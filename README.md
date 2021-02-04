@@ -10,62 +10,64 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
-- [Frontend](#frontend)
-  - [General Web Development](#general-web-development)
-  - [JavaScript](#javascript)
-    - [React](#react)
-    - [EmberJS](#emberjs)
-    - [VueJS](#vuejs)
-  - [Data Visualization](#data-visualization)
-  - [CSS](#css)
-  - [Design](#design)
-  - [HTML5](#html5)
-  - [SVG](#svg)
-  - [GraphQL](#graphql)
-- [Programming](#programming)
-  - [Common Section](#common-section)
-  - [ObjectiveC](#objectivec)
-  - [C#](#c)
-  - [Node.js](#nodejs)
-  - [Swift](#swift)
-  - [Go](#go)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [PHP](#php)
-  - [Python](#python)
-  - [Groovy](#groovy)
-  - [Perl](#perl)
-  - [Elixir](#elixir)
-  - [Clojure](#clojure)
-  - [Haskell](#haskell)
-  - [Elm](#elm)
-  - [Rust](#rust)
-  - [C/C++](#cc)
-  - [Scala](#scala)
-  - [Java](#java)
-  - [Kotlin](#kotlin)
-  - [Lua](#lua)
-- [OS](#os)
-- [Git](#git)
-- [Editors](#editors)
-  - [Vim](#vim)
-- [Databases](#databases)
-  - [PostgreSQL](#postgresql)
-  - [Redis](#redis)
-  - [NoSQL](#nosql)
-- [Backend Development](#backend-development)
-  - [Docker](#docker)
-  - [Devops](#devops)
-  - [Cloud Development](#cloud-development)
-  - [Kubernetes](#kubernetes)
-- [Mobile](#mobile)
-- [Artificial Intelligence / Machine Learning / Big Data](#artificial-intelligence--machine-learning--big-data)
-- [Blockchain / Cryptocurrencies](#blockchain--cryptocurrencies)
-- [Technology in General](#technology-in-general)
-- [Business/Finance](#businessfinance)
-- [Awesome news](#awesome-news)
-- [Miscellaneous](#miscellaneous)
-- [Resilience](#resilience)
+- [Awesome Newsletters ![Awesome](https://github.com/sindresorhus/awesome#readme) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)](#awesome-newsletters--)
+  - [Frontend](#frontend)
+    - [General Web Development](#general-web-development)
+    - [JavaScript](#javascript)
+      - [React](#react)
+      - [EmberJS](#emberjs)
+      - [VueJS](#vuejs)
+    - [Data Visualization](#data-visualization)
+    - [CSS](#css)
+    - [Design](#design)
+    - [HTML5](#html5)
+    - [SVG](#svg)
+    - [GraphQL](#graphql)
+  - [Programming](#programming)
+    - [Common Section](#common-section)
+    - [ObjectiveC](#objectivec)
+    - [C](#c)
+    - [Node.js](#nodejs)
+    - [Swift](#swift)
+    - [Go](#go)
+    - [R](#r)
+    - [Ruby](#ruby)
+    - [PHP](#php)
+    - [Python](#python)
+    - [Groovy](#groovy)
+    - [Perl](#perl)
+    - [Elixir](#elixir)
+    - [Clojure](#clojure)
+    - [Haskell](#haskell)
+    - [Elm](#elm)
+    - [Rust](#rust)
+    - [C/C++](#cc)
+    - [Scala](#scala)
+    - [Java](#java)
+    - [Kotlin](#kotlin)
+    - [Lua](#lua)
+  - [OS](#os)
+  - [Git](#git)
+  - [Editors](#editors)
+    - [Vim](#vim)
+  - [Databases](#databases)
+    - [PostgreSQL](#postgresql)
+    - [Redis](#redis)
+    - [NoSQL](#nosql)
+  - [Backend Development](#backend-development)
+    - [Docker](#docker)
+    - [Devops](#devops)
+    - [Cloud Development](#cloud-development)
+    - [Kubernetes](#kubernetes)
+  - [Mobile](#mobile)
+  - [Artificial Intelligence / Machine Learning / Big Data](#artificial-intelligence--machine-learning--big-data)
+  - [Blockchain / Cryptocurrencies](#blockchain--cryptocurrencies)
+  - [Technology in General](#technology-in-general)
+  - [Business/Finance](#businessfinance)
+  - [Awesome news](#awesome-news)
+  - [Resilience](#resilience)
+  - [Security](#security)
+  - [Miscellaneous](#miscellaneous)
 - [License](#license)
 
 ## Frontend
@@ -88,6 +90,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [JAMstacked](https://jamstack.email/). An email update on the evolving JAMstack ecosystem.
 - [FreeCodeCamp](https://www.freecodecamp.org). Weekly selection of five articles, videos or entire courses from FreeCodeCamp learning platform.
 - [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative new projects and libraries in web development and design.
+- [Web Weekly](https://www.stefanjudis.com/newsletter/). Weekly web development-related productivity tricks, articles, GitHub projects, #devsheets and some music.
 
 ### JavaScript
 
@@ -195,7 +198,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [ObjC](https://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
 - [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter). A curated list of awesome iOS libraries, including Objective-C and Swift Projects.
 
-### C# #
+### C#
 
 - [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
 - [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
@@ -442,6 +445,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Resilience Roundup](https://resilienceroundup.com). Learn from Resilence Engineering research without having to dig through long, academic papers.
 
 ## Security
+
 - [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
 - [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&id=a2457dc8ad). a weekly tl;dr cybersecurity newsletter including news, the happy corner, your weekly cyber-cat, and more. It's sent every Sunday.
 - [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa). A daily summary of 10 Information Security news items that aren't necessarily getting a lot of attention.
