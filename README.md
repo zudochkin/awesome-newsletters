@@ -73,7 +73,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Front-end Front](https://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
 - [Front End Newsletter](http://frontendnewsletter.com/). The free, weekly newsletter of the best Front End related news, articles, projects, and more. JavaScript, React, Angular, Ember, Polymer, Meteor, RxJS, Elm, and more. [Archive](http://frontendnewsletter.com/issues).
 - [Dev Tips](https://umaar.com/dev-tips/). A developer tip, in the form of a gif, in your inbox each week.
-- [Friday Front-end](https://zendev.com/friday-frontend.html). 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff. [Archive](https://zendev.com/category/friday-frontend.html)
+- [Friday Front-end](https://zendev.com/friday-frontend.html). 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff. [Archive](https://zendev.com/category/friday-frontend.html).
 - [Unreadit/Frontend](https://unread.it/n/frontend/). Best frontend development news sourced from the best subreddits.
 - [UI Dev Newsletter](https://mentor.silvestar.codes/reads). A hand-curated list of articles, tutorials, opinions, and tools related to User Interface development.
 
@@ -99,8 +99,9 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - [TypeScript Weekly](https://www.typescript-weekly.com/). The best TypeScript links every week, right in your box.
 - [JSter](http://jster.net/blog). No nonsense list of curated JavaScript links to your mailbox once every two weeks. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
-- [Best of JavaScript](https://weekly.bestofjs.org/) Weekly rankings about the most popular open-source projects related to Node.js and the web platform.
-- [JavaScript Kicks](https://javascriptkicks.com/) Curated list of the top-rated articles from the community of JavaScript developers sent weekly. 
+- [Best of JavaScript](https://weekly.bestofjs.org/). Weekly rankings about the most popular open-source projects related to Node.js and the web platform.
+- [JavaScript Kicks](https://javascriptkicks.com/). Curated list of the top-rated articles from the community of JavaScript developers sent weekly.
+
 #### React
 
 - [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
@@ -117,7 +118,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 #### EmberJS
 
-- [The Ember Times](https://the-emberjs-times.ongoodbits.com/) Updates from the Ember.js Learning Team.
+- [The Ember Times](https://the-emberjs-times.ongoodbits.com/). Updates from the Ember.js Learning Team.
 - [Ember Weekly](https://www.emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
 
 #### VueJS
@@ -374,7 +375,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ## Mobile
 
 - [Mobile Web Weekly](https://mobiledevweekly.com/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
-- [Android Weekly](https://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
+- [Android Weekly](https://androidweekly.net/). Free newsletter that helps you to stay cutting-edge with your Android Development.
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 - [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
 - [Flutter Weekly](https://flutterweekly.net/). A weekly newsletter for flutter fans by flutter fans.
@@ -462,7 +463,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 - [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
-- [Trending Projects](https://www.trendingprojects.com/) A weekly email showcasing trending projects on GitHub.
+- [Trending Projects](https://www.trendingprojects.com/). A weekly email showcasing trending projects on GitHub.
 
 # License
 
