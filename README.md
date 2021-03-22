@@ -188,6 +188,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly in-depth code-review related write-up.
 - [Active forks](https://activeforks.net). A weekly newsletter for open source enthusiats with a list of repositories and their recently active forks.
 - [BaseClass](https://www.baseclass.io/). A fortnightly newsletter explaining fundamental computing topics in under 5 minutes.
+- [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/). A weekly newsletter featuring the latest Rails + Javascript + software engineering content.
 
 ### ObjectiveC
 
