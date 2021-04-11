@@ -16,6 +16,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
     - [React](#react)
     - [EmberJS](#emberjs)
     - [VueJS](#vuejs)
+    - [Svelte](#svelte)
   - [Data Visualization](#data-visualization)
   - [CSS](#css)
   - [Design](#design)
@@ -126,6 +127,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Vue.js Newsletter](https://news.vuejs.org). Weekly dose of handpicked Vue.js news.
 - [Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers). A weekly curated publication of the best articles, latest news and coolest Vue projects.
 - [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs. Published weekly.
+
+#### Svelte
+
+- [Svelte News Weekly](https://svelte.news/weekly). A curated newsletter for Svelte enthusiasts with a weekly dose of handpicked news.
 
 ### Data Visualization
 
