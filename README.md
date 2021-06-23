@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Artificial Intelligence / Machine Learning / Big Data](#artificial-intelligence--machine-learning--big-data)
 - [Blockchain / Cryptocurrencies](#blockchain--cryptocurrencies)
 - [Technology in General](#technology-in-general)
+- [Marketing](#marketing)
 - [Business/Finance](#businessfinance)
 - [Awesome news](#awesome-news)
 - [Miscellaneous](#miscellaneous)
@@ -414,6 +415,11 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/). 4 short links about (mostly research oriented) technology every weekday.
 - [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 - [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
+
+## Marketing
+
+- [tldrMarketing](https://tldrmarketing.com). Get the latest breaking news and trends about digital marketing without all the fluff. 
+- [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
 
 ## Business/Finance
 
