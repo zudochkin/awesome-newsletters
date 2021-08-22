@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Artificial Intelligence / Machine Learning / Big Data](#artificial-intelligence--machine-learning--big-data)
 - [Blockchain / Cryptocurrencies](#blockchain--cryptocurrencies)
 - [Technology in General](#technology-in-general)
+- [Leadership](#leadership)
 - [Marketing](#marketing)
 - [Business/Finance](#businessfinance)
 - [Awesome news](#awesome-news)
@@ -416,6 +417,11 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/). 4 short links about (mostly research oriented) technology every weekday.
 - [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 - [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
+
+## Leadership
+
+- [Software Lead Weekly](https://softwareleadweekly.com/). Insightful articles about company culture, leadership and building software in general.
+- [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
 
 ## Marketing
 
