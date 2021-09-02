@@ -277,6 +277,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Clojure
 
 - [The REPL](https://www.therepl.net/). A weekly newsletter about Clojure and ClojureScript.
+- [Clojure Morsels](https://www.clojuremorsels.com/). Delicious Clojure(Script) morsels delivered fresh to your inbox every other week!
 
 ### Haskell
 
@@ -418,7 +419,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ## Marketing
 
-- [tldrMarketing](https://tldrmarketing.com). Get the latest breaking news and trends about digital marketing without all the fluff. 
+- [tldrMarketing](https://tldrmarketing.com). Get the latest breaking news and trends about digital marketing without all the fluff.
 - [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
 
 ## Business/Finance
