@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Artificial Intelligence / Machine Learning / Big Data](#artificial-intelligence--machine-learning--big-data)
 - [Blockchain / Cryptocurrencies](#blockchain--cryptocurrencies)
 - [Technology in General](#technology-in-general)
+- [Leadership](#leadership)
 - [Marketing](#marketing)
 - [Business/Finance](#businessfinance)
 - [Awesome news](#awesome-news)
@@ -417,6 +418,11 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 - [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
 
+## Leadership
+
+- [Software Lead Weekly](https://softwareleadweekly.com/). Insightful articles about company culture, leadership and building software in general.
+- [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
+
 ## Marketing
 
 - [tldrMarketing](https://tldrmarketing.com). Get the latest breaking news and trends about digital marketing without all the fluff.
@@ -465,7 +471,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Web Audio Weekly](https://www.webaudioweekly.com/). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
 - [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
 - [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
-- [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
 - [Changelog Nightly](https://changelog.com/nightly). An email, every night at 10pm CT, that unearths the hottest new repos on GitHub.
 - [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
