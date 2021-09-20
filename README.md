@@ -390,6 +390,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
 - [Flutter Weekly](https://flutterweekly.net/). A weekly newsletter for flutter fans by flutter fans.
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers - iOS, Android, Flutter & React Native.
+- [Flutter Croissants](https://flutter-croissants.com/). Receive every Monday all the news about Flutter and the world of mobility.
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
