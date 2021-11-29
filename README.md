@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
     - [EmberJS](#emberjs)
     - [VueJS](#vuejs)
     - [Svelte](#svelte)
+    - [Angular](#angular)
   - [Data Visualization](#data-visualization)
   - [CSS](#css)
   - [Design](#design)
@@ -133,6 +134,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 #### Svelte
 
 - [Svelte News Weekly](https://svelte.news/weekly). A curated newsletter for Svelte enthusiasts with a weekly dose of handpicked news.
+
+#### Angular
+
+- [Angular Weekly](https://www.getrevue.co/profile/angular-newsletter). Angular Weekly is a summary of #angular related topics and news from the last week.
 
 ### Data Visualization
 
