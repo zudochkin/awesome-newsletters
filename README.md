@@ -14,10 +14,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [General Web Development](#general-web-development)
   - [JavaScript](#javascript)
     - [React](#react)
-    - [Angular](#angular)
     - [EmberJS](#emberjs)
     - [VueJS](#vuejs)
     - [Svelte](#svelte)
+    - [Angular](#angular)
   - [Data Visualization](#data-visualization)
   - [CSS](#css)
   - [Design](#design)
@@ -120,10 +120,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [React Explained](https://www.getrevue.co/profile/react-explained). A weekly newsletter for people learning React.
 - [Next.js News](https://nextjsnews.com). Next.js focused newsletter sent every month. Contains reviews of upcoming features, best articles, tools, and plugins.
 
-#### Angular
-
-- [Angular Weekly](https://www.getrevue.co/profile/angular-newsletter). Angular Weekly is a summary of #angular related topics and news from the last week.
-
 #### EmberJS
 
 - [The Ember Times](https://the-emberjs-times.ongoodbits.com/). Updates from the Ember.js Learning Team.
@@ -138,6 +134,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 #### Svelte
 
 - [Svelte News Weekly](https://svelte.news/weekly). A curated newsletter for Svelte enthusiasts with a weekly dose of handpicked news.
+
+#### Angular
+
+- [Angular Weekly](https://www.getrevue.co/profile/angular-newsletter). Angular Weekly is a summary of #angular related topics and news from the last week.
 
 ### Data Visualization
 
