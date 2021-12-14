@@ -105,6 +105,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Best of JavaScript](https://weekly.bestofjs.org/). Weekly rankings about the most popular open-source projects related to Node.js and the web platform.
 - [JavaScript Kicks](https://javascriptkicks.com/). Curated list of the top-rated articles from the community of JavaScript developers sent weekly.
 - [Bytes](https://bytes.dev/). Become a smarter JavaScript developer. Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday, for free.
+- [Deno Weekly](https://denoweekly.com/). A weekly roundup of news, tutorials and projects from the land of Deno, the newest JavaScript runtime on the block.
 
 #### React
 
