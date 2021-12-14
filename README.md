@@ -82,7 +82,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### General Web Development
 
-- [Weekend Reading](https://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
+- [Labnotes](https://labnotes.org/). A weekly email about software development, tech, and anything else interesting.
 - [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
 - [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
 - [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform. [Archive](https://ponyfoo.com/weekly/history).
