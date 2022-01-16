@@ -434,6 +434,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [tldrMarketing](https://tldrmarketing.com). Get the latest breaking news and trends about digital marketing without all the fluff.
 - [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
+- [The Content Odyssey](https://newsletter.mktodyssey.com/). Biweekly tried-and-tested content growth experiments.
 
 ## Business/Finance
 
