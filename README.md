@@ -493,6 +493,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
 - [Trending Projects](https://www.trendingprojects.com/). A weekly email showcasing trending projects on GitHub.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/). In Softwaretalks Newsletter, we send articles about software engineering every Thursday. (For persian users).
+- [Figures](https://joinfigures.com/). Receive high-paying tech jobs based on your minimum salary requirement.
 
 # License
 
