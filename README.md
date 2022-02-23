@@ -117,7 +117,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
 - [This Week In React](https://this-week-in-react.org/). Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM. Coming out every Friday.
 - [Tiny React](https://tinyreact.email). Top 3 React articles of the week in your inbox.
-- [React Explained](https://www.getrevue.co/profile/react-explained). A weekly newsletter for people learning React.
 - [Next.js News](https://nextjsnews.com). Next.js focused newsletter sent every month. Contains reviews of upcoming features, best articles, tools, and plugins.
 
 #### EmberJS
