@@ -114,7 +114,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe). A weekly newsletter about React and ecosystem.
 - [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
-- [React Explained](https://www.getrevue.co/profile/react-explained). A weekly newsletter for people learning React.
 
 #### EmberJS
 
