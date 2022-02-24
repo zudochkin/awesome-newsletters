@@ -418,6 +418,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
 - [Unzip.dev](https://unzip.dev/). Developer trends newsletter, unpacking one trend at a time.
 
+
 ## Leadership
 
 - [Software Lead Weekly](https://softwareleadweekly.com/). Insightful articles about company culture, leadership and building software in general.
