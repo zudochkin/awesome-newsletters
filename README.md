@@ -90,7 +90,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [JAMstacked](https://jamstack.email/). An email update on the evolving JAMstack ecosystem.
 - [FreeCodeCamp](https://www.freecodecamp.org). Weekly selection of five articles, videos or entire courses from FreeCodeCamp learning platform.
 - [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative new projects and libraries in web development and design.
-
+- [The Comet](https://wpuniverse.online/the-comet/). Short. Concise. Blazing fast 🌠 A monthly free newsletter about WordPress and web development.
 ### JavaScript
 
 - [JavaScript Weekly](https://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](https://javascriptweekly.com/issues).
