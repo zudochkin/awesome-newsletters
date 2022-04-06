@@ -390,6 +390,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Flutter Weekly](https://flutterweekly.net/). A weekly newsletter for flutter fans by flutter fans.
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers - iOS, Android, Flutter & React Native.
 - [Flutter Croissants](https://flutter-croissants.com/). Receive every Monday all the news about Flutter and the world of mobility.
+- [Flutter Digest](https://flutter-digest.com/). 🇫🇷 A weekly French newsletter about Flutter and Dart.
+- [Android Croissants](https://android-croissants.com/). 🇫🇷 Every Monday morning, receive the latest news, tutorials, tips… about Android.
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
