@@ -68,8 +68,9 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Marketing](#marketing)
 - [Business/Finance](#businessfinance)
 - [Awesome news](#awesome-news)
-- [Miscellaneous](#miscellaneous)
 - [Resilience](#resilience)
+- [Security](#security)
+- [Miscellaneous](#miscellaneous)
 - [License](#license)
 
 ## Frontend
@@ -321,7 +322,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [BSD Weekly](https://bsdweekly.com/). A free, once–weekly e-mail round-up of BSD news and articles.
 - [MacMost](https://macmost.com/macmost-weekly-newsletter). Latest MacMost tutorials, tips and news right in your inbox every week.
 - [NixOS Weekly](https://weekly.nixos.org). Latest News for [NixOS](https://nixos.org)
-- [Console Weekly](https://console.substack.com/). Discover cool open-source projects and an interview with one of the developers every week. 
+- [Console Weekly](https://console.substack.com/). Discover cool open-source projects and an interview with one of the developers every week.
 
 ## Git
 
