@@ -69,8 +69,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Business/Finance](#businessfinance)
 - [Awesome news](#awesome-news)
 - [Resilience](#resilience)
-- [Miscellaneous](#miscellaneous)
 - [Security](#security)
+- [Miscellaneous](#miscellaneous)
 - [License](#license)
 
 ## Frontend
