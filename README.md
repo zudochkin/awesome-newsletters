@@ -51,6 +51,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Git](#git)
 - [Editors](#editors)
   - [Vim](#vim)
+  - [VSCode](#vscode)
 - [Databases](#databases)
   - [PostgreSQL](#postgresql)
   - [Redis](#redis)
@@ -334,6 +335,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Vim Weekly](http://www.vimweekly.com/). Every monday, we send 5 tips that can help boost your vim productivity you can think of it as one tip per day!
 - [Mastering Vim Quickly](https://masteringvim.com/). Best Vim stuff, once a week.
+
+### VSCode
+
+- [vscode.email](https://vscode.email/). A Newsletter for News and Tips on VS Code & IDEs.
 
 ## Databases
 
