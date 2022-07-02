@@ -120,7 +120,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 #### EmberJS
 
-- [The Ember Times](https://the-emberjs-times.ongoodbits.com/). Updates from the Ember.js Learning Team.
+- [The Ember Times](https://embertimes.substack.com/). Updates from the Ember.js Learning Team.
 - [Ember Weekly](https://www.emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
 
 #### VueJS
@@ -334,7 +334,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### Vim
 
-- [Vim Weekly](http://www.vimweekly.com/). Every monday, we send 5 tips that can help boost your vim productivity you can think of it as one tip per day!
 - [Mastering Vim Quickly](https://masteringvim.com/). Best Vim stuff, once a week.
 
 ### VSCode
@@ -416,7 +415,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ## Blockchain / Cryptocurrencies
 
-- [Inside Bitcoin](https://inside.com/bitcoin). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
+- [Inside Cryptocurrency](https://inside.com/cryptocurrency). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
 - [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter). Blockchain tech without the bull— a weekly dose of blockchain reality with a heavy bias toward the technical.
 
@@ -449,7 +448,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Capital minded](https://capitalminded.com). Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
 - [AngelList Weekly](https://angel.co/newsletters). The best of the startup world, curated weekly.
 - [Startup Curated](https://startup.curated.co). The startup community’s newsletter with the best content from and for founders. [Archive](https://startup.curated.co/issues).
-- [InspectCompany Weekly](https://inspectcompany.com/newsletter). Company news and analysis in less than 5 minutes per week.
 
 ## Awesome news
 
