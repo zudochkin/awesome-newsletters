@@ -325,6 +325,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [MacMost](https://macmost.com/macmost-weekly-newsletter). Latest MacMost tutorials, tips and news right in your inbox every week.
 - [NixOS Weekly](https://weekly.nixos.org). Latest News for [NixOS](https://nixos.org)
 - [Console Weekly](https://console.substack.com/). Discover cool open-source projects and an interview with one of the developers every week.
+- [FOSS Weekly](https://fossweekly.beehiiv.com/). The easiest way to keep up with Open Source Software.
 
 ## Git
 
