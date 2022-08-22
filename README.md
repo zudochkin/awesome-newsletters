@@ -47,7 +47,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
-- [OS](#os)
+- [Open Source](#open-source)
 - [Git](#git)
 - [Editors](#editors)
   - [Vim](#vim)
@@ -319,7 +319,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Lua Digest](https://luadigest.immortalin.com). A regular newsletter for the Lua Programming Language.
 
-## OS
+## Open Source
 
 - [TinyOpenSource](https://tinyopensource.email). Top 5 updates from the Open-Source world, straight to your inbox. Short and Sweet.
 - [BSD Weekly](https://bsdweekly.com/). A free, once–weekly e-mail round-up of BSD news and articles.
