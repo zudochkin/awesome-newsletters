@@ -47,7 +47,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
-- [Open Source](#os)
+- [Open Source](#open-source)
 - [Git](#git)
 - [Editors](#editors)
   - [Vim](#vim)
