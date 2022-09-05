@@ -450,6 +450,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Capital minded](https://capitalminded.com). Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
 - [AngelList Weekly](https://angel.co/newsletters). The best of the startup world, curated weekly.
 - [Startup Curated](https://startup.curated.co). The startup community’s newsletter with the best content from and for founders. [Archive](https://startup.curated.co/issues).
+- [Unvalidated Ideas](https://unvalidatedideas.com). Fresh startup and SaaS ideas that you can take out and market validate every week.
 
 ## Awesome news
 
