@@ -503,6 +503,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/). In Softwaretalks Newsletter, we send articles about software engineering every Thursday. (For persian users).
 - [Figures](https://joinfigures.com/). Receive high-paying tech jobs based on your minimum salary requirement.
 - [rendezvous with cassidoo](https://cassidoo.co/newsletter/). A free weekly tech newsletter with the latest web development articles, a practice technical interview question of the week, a joke, some non-technical content, and more, arriving every Sunday night/Monday morning depending on where you are in the world.
+- [No-Code Shots](https://nocodeshots.com). A curated weekly newsletter that will bring you news, updates, and tips on how to improve your No-code skills.
 
 # License
 
