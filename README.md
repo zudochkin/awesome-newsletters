@@ -246,6 +246,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter). A collection of awesome Ruby gems, tools, frameworks and software.
 - [Women on Rails Newsletter](https://womenonrailsinternational.substack.com/). A bi-monthly newsletter about Ruby on Rails and the web. Available in English, French, Spanish and Italian.
+- [Short Ruby Newsletter](https://newsletter.shortruby.com). A visual weekly newsletter about everything happening in Ruby world.
 - [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/). A monthly newsletter on the Hotwire stack: Turbo (Native), Stimulus, and Strada articles, code, and courses.
 
 ### PHP
