@@ -378,6 +378,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Monitoring Weekly](https://monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 - [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
 - [StatusCode Weekly](https://weekly.statuscode.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
+- [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter). A weekly newsletter on curated meetups, conferences, training and webinars on Kubernetes.
 
 ### Cloud Development
 
@@ -391,6 +392,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [kubelist](https://kubelist.com). Your curated weekly kubernetes information reconciliation loop.
 - [KubeWeekly](https://kube.news). Interesting weekly news about Kubernetes in the form of a newsletter.
 - [LWKD](http://lwkd.info). LWKD is a weekly newsletter summarizing code activity in the Kubernetes project: merges, PRs, deprecations, version updates, release schedules, and the weekly community meeting.
+- [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter). A weekly newsletter on curated meetups, conferences, training and webinars on Kubernetes.
 
 ## Mobile
 
