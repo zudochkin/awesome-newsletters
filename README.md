@@ -310,7 +310,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Java
 
 - [Awesome Java Newsletter](https://java.libhunt.com/newsletter). A curated list of awesome Java frameworks, libraries and software.
-- [Baeldung Weekly Review](https://www.baeldung.com/category/weekly-review/). Keep up-to-date with the main developments in the Java world through this weekly guide.
+- [Baeldung Weekly Review](https://www.baeldung.com/java-web-weekly). Keep up-to-date with the main developments in the Java world through this weekly guide.
 - [Java Newsletter Insights](https://curatedjava.com/java-weekly-newsletter/). A Java newsletter contemplating Java content curated from dozens of sources.
 
 ### Kotlin
