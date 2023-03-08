@@ -263,7 +263,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Python
 
 - [Python Weekly](https://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
-- [Weekly Python Newsletter](https://importpython.com/newsletter/). Weekly Python Newsletter containing Python Articles, Projects, Videos, Tweets delivered in your inbox. [Archive](https://importpython.com/newsletter/archive/).
 - [Pycoders Weekly](https://pycoders.com/). A free weekly e-mail newsletter, on Fridays, for those interested in python development and various topics around python.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter). A weekly overview of the most popular Python news, articles and packages.
 - [Data Science Simplified](https://mathdatasimplified.com/). A daily Python and data science snippet.
