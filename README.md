@@ -266,6 +266,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Pycoders Weekly](https://pycoders.com/). A free weekly e-mail newsletter, on Fridays, for those interested in python development and various topics around python.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter). A weekly overview of the most popular Python news, articles and packages.
 - [Data Science Simplified](https://mathdatasimplified.com/). A daily Python and data science snippet.
+- [Python Morsels Newsletter](https://www.pythonmorsels.com/newsletter/). One Python tip every week, sent on Wednesdays.
 
 ### Groovy
 
