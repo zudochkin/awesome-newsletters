@@ -435,7 +435,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
 - [Unzip.dev](https://unzip.dev/). Developer trends newsletter, unpacking one trend at a time.
 - [Daily Tech](https://dailytech.email). Daily Tech is a curated newsletter about technology, startups, product, and software engineering.
-
+- [SaaS Bites](https://saasbites.substack.com). Latest news, tips, and tools for SaaS growth, marketing and product management.
 
 ## Leadership
 
