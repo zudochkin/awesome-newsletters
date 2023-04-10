@@ -81,7 +81,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Friday Front-end](https://zendev.com/friday-frontend.html). 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff. [Archive](https://zendev.com/category/friday-frontend.html).
 - [Unreadit/Frontend](https://unread.it/n/frontend/). Best frontend development news sourced from the best subreddits.
 - [UI Dev Newsletter](https://mentor.silvestar.codes/reads). A hand-curated list of articles, tutorials, opinions, and tools related to User Interface development.
-- [Frontend Snacks](https://frontendsnacks.dev/). Get weekly snacks - A code snippet to teach complex topics visually, latest frontend gossip/news and free career dev toolkit delivered fresh in your inbox!
+- [Frontend Snacks](https://frontendsnacks.dev/). Get weekly snacks - A code snippet to teach complex topics visually, latest frontend gossip/news and free career dev toolkit delivered fresh in your inbox.
 
 ### General Web Development
 
@@ -442,7 +442,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Software Lead Weekly](https://softwareleadweekly.com/). Insightful articles about company culture, leadership and building software in general.
 - [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
-- [Engineering Leadership Snacks](https://engineeringleadership.kulkarniankita.com/). Weekly Snacks on Actionable Leadership tips, a Deep-dive and free Toolbox to excel as a Leader!
+- [Engineering Leadership Snacks](https://engineeringleadership.kulkarniankita.com/). Weekly Snacks on Actionable Leadership tips, a Deep-dive and free Toolbox to excel as a Leader.
 
 ## Marketing
 
