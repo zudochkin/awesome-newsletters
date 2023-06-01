@@ -116,6 +116,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [React Digest](https://reactdigest.net/). A weekly newsletter for React developers with top 5 links. [Archive](https://reactdigest.net/digests).
 - [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
+- [Nextjs Weekly](https://nextjsweekly.com/). A newsletter of the best Next.js articles, tools and projects.
 
 #### EmberJS
 
@@ -228,7 +229,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Indie iOS Focus Weekly](https://indieiosfocus.com). Best iOS development, marketing, Swift, design, and Xcode links.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
 - [iOS Dev Tools Newsletter](https://iosdev.tools/). The best tools for iOS developers, updated weekly.
-- [Indie Watch](https://indie.watch/). Weekly interviews with successful iOS & macOS developers about strategies and tips you can use to create profitable indie apps. 
+- [Indie Watch](https://indie.watch/). Weekly interviews with successful iOS & macOS developers about strategies and tips you can use to create profitable indie apps.
 
 ### Go
 
