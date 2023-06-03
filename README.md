@@ -200,6 +200,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [A Byte of Coding](https://abyteofcoding.com). A daily curated newsletter that features technical deep-dives on all things software engineering.
 - [Pointer](https://www.pointer.io/). A window into what current and future CTOs are reading and thinking about. Super high quality engineering-related content only.
 - [Embedsys Weekly](https://embedsysweekly.com/). A weekly selection of embedded software and hardware articles.
+- [Big Tech Digest](https://bigtechdigest.substack.com/). A manually curated newsletter aggregating the latest tech articles from Big Tech and startup engineering blogs for Software Engineers and AI/ML folks.
+
 
 ### ObjectiveC
 
