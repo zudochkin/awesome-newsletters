@@ -25,7 +25,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [SVG](#svg)
   - [GraphQL](#graphql)
 - [Programming](#programming)
-  - [Common Section](#common-section)
+  - [General Section](#general-section)
   - [ObjectiveC](#objectivec)
   - [C#](#c)
   - [Node.js](#nodejs)
@@ -186,7 +186,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ## Programming
 
-### Common Section
+### General Section
 
 - [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html). Receive weekly Programming news and insights from industry insiders.
 - [Programming Digest](https://programmingdigest.net/). A weekly newsletter for software engineers featuring top 5 links. [Archive](https://programmingdigest.net/digests).
@@ -202,6 +202,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Pointer](https://www.pointer.io/). A window into what current and future CTOs are reading and thinking about. Super high quality engineering-related content only.
 - [Embedsys Weekly](https://embedsysweekly.com/). A weekly selection of embedded software and hardware articles.
 - [Big Tech Digest](https://bigtechdigest.substack.com/). A manually curated newsletter aggregating the latest tech articles from Big Tech and startup engineering blogs for Software Engineers and AI/ML folks.
+- [Console](https://console.dev/). A free weekly email digest of the best tools for developers.
 
 
 ### ObjectiveC
