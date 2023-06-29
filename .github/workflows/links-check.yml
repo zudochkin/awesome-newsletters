@@ -15,7 +15,8 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
-    with:
-      use-verbose-mode: "yes"
-      config-file: "mlc_config.json"
-      file-path: "./README.md"
+        with:
+          use-verbose-mode: "yes"
+          config-file: "mlc_config.json"
+          file-path: "./README.md"
+          
