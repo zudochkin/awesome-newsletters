@@ -1,0 +1,18 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://denoweekly.com/"
+    },
+    {
+      "pattern": "^https://wellfound.com/newsletters"
+    },
+    {
+      "pattern": "^https://www.kickstarter.com/newsletters"
+    }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 5,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 206]
+}
