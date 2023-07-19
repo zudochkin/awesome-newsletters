@@ -243,6 +243,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Women on Rails Newsletter](https://womenonrailsinternational.substack.com/). A bi-monthly newsletter about Ruby on Rails and the web. Available in English, French, Spanish and Italian.
 - [Short Ruby Newsletter](https://newsletter.shortruby.com). A visual weekly newsletter about everything happening in Ruby world.
 - [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/). A monthly newsletter on the Hotwire stack: Turbo (Native), Stimulus, and Strada articles, code, and courses.
+- [The RailsNotes Newsletter](https://railsnotes.xyz/newsletter). The Ruby on Rails guides you wished you had — now as a weekly newsletter!
 
 ### PHP
 
