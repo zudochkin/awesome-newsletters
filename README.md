@@ -193,6 +193,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Embedsys Weekly](https://embedsysweekly.com/). A weekly selection of embedded software and hardware articles.
 - [Big Tech Digest](https://bigtechdigest.substack.com/). A manually curated newsletter aggregating the latest tech articles from Big Tech and startup engineering blogs for Software Engineers and AI/ML folks.
 - [Console](https://console.dev/). A free weekly email digest of the best tools for developers.
+- [Integration Digest](https://wearecommunity.io/collections/DLY4smPzao). A monthly curated newsletter aggregating the latest news in API Management, iPaaS, ESB, integration frameworks, message brokers, etc.
 
 ### ObjectiveC
 
