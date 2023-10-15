@@ -89,7 +89,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [FreeCodeCamp](https://www.freecodecamp.org). Weekly selection of five articles, videos or entire courses from FreeCodeCamp learning platform.
 - [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative new projects and libraries in web development and design.
 - [The Comet](https://wpuniverse.online/the-comet/). Short. Concise. Blazing fast 🌠 A monthly free newsletter about WordPress and web development.
-- [Web Weekly](https://webweekly.email/). Weekly news about web dev fundamentals, new browser featres and tools.
+- [Web Weekly](https://webweekly.email/). Weekly news about web dev fundamentals, new browser features and coding tools.
 
 ### JavaScript
 
