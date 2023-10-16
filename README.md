@@ -85,11 +85,11 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Labnotes](https://labnotes.org/). A weekly email about software development, tech, and anything else interesting.
 - [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
-- [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform. [Archive](https://ponyfoo.com/weekly/history).
 - [JAMstacked](https://jamstack.email/). An email update on the evolving JAMstack ecosystem.
 - [FreeCodeCamp](https://www.freecodecamp.org). Weekly selection of five articles, videos or entire courses from FreeCodeCamp learning platform.
 - [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative new projects and libraries in web development and design.
 - [The Comet](https://wpuniverse.online/the-comet/). Short. Concise. Blazing fast 🌠 A monthly free newsletter about WordPress and web development.
+- [Web Weekly](https://webweekly.email/). Weekly news about web dev fundamentals, new browser features and coding tools.
 
 ### JavaScript
 
