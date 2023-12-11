@@ -477,6 +477,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ## Security
 
+- [Phishing Stories](https://phishingstories.beehiiv.com). The One Email CIOs & CISOs Actually Want Their Employees to Open.
 - [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
 - [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&id=a2457dc8ad). a weekly tl;dr cybersecurity newsletter including news, the happy corner, your weekly cyber-cat, and more. It's sent every Sunday.
 - [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
