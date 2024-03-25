@@ -442,6 +442,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Software Lead Weekly](https://softwareleadweekly.com/). Insightful articles about company culture, leadership and building software in general.
 - [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
 - [Engineering Leadership Snacks](https://engineeringleadership.kulkarniankita.com/). Weekly Snacks on Actionable Leadership tips, a Deep-dive and free Toolbox to excel as a Leader.
+- [Engineering Leadership](https://newsletter.eng-leadership.com/). Weekly newsletter for becoming a great engineering leader.
 
 ## Marketing
 
