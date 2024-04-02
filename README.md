@@ -301,7 +301,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [This Week in Rust](https://this-week-in-rust.org). Stay up to date with events, learning resources, and recent developments in Rust community. [Archive](https://this-week-in-rust.org/blog/archives/index.html).
 - [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter). A curated list of Rust libraries and resources.
-- [Rust Bytes](https://weeklyrust.substack.com/). A fun weekly newsletter keeping you informed about all things noteworthy in the world of The Rust Programming Language
+- [Rust Bytes](https://weeklyrust.substack.com/). A fun weekly newsletter keeping you informed about all things noteworthy in the world of The Rust Programming Language.
 
 ### C/C++
 
