@@ -503,6 +503,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 
+## Productivity
+
+- [The Productivity Newsletter](https://newsletter.productivity.directory)
+
 ## Miscellaneous
 
 - [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
