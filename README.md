@@ -477,6 +477,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
 - [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
 - [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
+- [Simply Explained](https://newsletter.simplyexplained.com/). Monthly newsletter to tickle your curiosity. Mostly science and technology news.
 
 ## Resilience
 
