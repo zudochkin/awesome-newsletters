@@ -389,6 +389,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
 - [Last Week in AWS](https://www.lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
+- [Cloud Study Weekly](https://cloudstudy.net/newsletter). This weekly newsletter features the latest news headlines in cloud computing, upcoming conferences related to cloud and DevOps, as well as weekly deals and freebies on cloud-native technologies.
 
 ### Kubernetes
 
