@@ -214,6 +214,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Node Weekly](https://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
 - [npm Weekly](https://www.npmjs.com/npm-weekly). What we’re working on, thinking about, and talking about NPM
 - [Awesome Node.js Newsletter](https://nodejs.libhunt.com/newsletter). A weekly overview of the most popular Node.js news, articles and packages.
+- [Node.js Security Newsletter](https://www.nodejs-security.com/newsletter). Everything in and around the Node.js security ecosystem, direct to your inbox.
 
 ### Swift
 
