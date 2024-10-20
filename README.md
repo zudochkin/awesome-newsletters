@@ -180,6 +180,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### General Section
 
+- [The Coder Cafe](https://thecoder.cafe). One concept for coders, every day.
 - [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html). Receive weekly Programming news and insights from industry insiders.
 - [Programming Digest](https://programmingdigest.net/). A weekly newsletter for software engineers featuring top 5 links. [Archive](https://programmingdigest.net/digests).
 - [Weekly Dev Tips](https://ardalis.com/tips). A weekly email each Wednesday with a new software development tip. Topics range from git to career to web development to personal development and teamwork.
