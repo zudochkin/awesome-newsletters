@@ -109,13 +109,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 #### React
 
-- [This Week In React](https://thisweekinreact.com). Weekly newsletter for experienced React and React-Native developers.
-- [React Newsletter](https://reactnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
-- [React Native Newsletter](https://reactnativenewsletter.com/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
-- [React Native Now](https://reactnativenow.com/). Hand picking the best React Native news, tutorials, libraries, articles, and videos.
-- [React Digest](https://reactdigest.net/). A weekly newsletter for React developers with top 5 links. [Archive](https://reactdigest.net/digests).
+- [React Digest](https://reactdigest.net/). A carefully curated weekly newsletter for React developers.
 - [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
+- [This Week In React](https://thisweekinreact.com). Weekly newsletter for experienced React and React-Native developers.
 - [Nextjs Weekly](https://nextjsweekly.com/). A newsletter of the best Next.js articles, tools and projects.
 
 #### EmberJS
