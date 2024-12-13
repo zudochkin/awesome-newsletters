@@ -205,7 +205,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### C\#
 
-- [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
+- [C# Digest](https://csharpdigest.net/). A carefully curated weekly newsletter for .NET developers.
 - [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
 - [ASP.NET Core News](https://aspnetcore.news/). A weekly newsletter about everything ASP.NET Core, Blazor, SignalR, and similar.
 - [C# Insights](https://csharpinsights.com/). A free, weekly newsletter for .NET developers, to stay up-to-date with the latest news, enhancements, tips and tricks in the world of C# and .NET development. [Archive](https://newsletter.csharpinsights.com/).
