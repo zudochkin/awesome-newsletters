@@ -422,6 +422,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [True Positive Weekly](https://aiweekly.substack.com/). The most important artificial intelligence and machine learning links of the week.
 - [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI.
 - [The Batch](https://www.deeplearning.ai/the-batch/). The weekly DeepLearning.AI newsletter that highlights the most practical research papers, industry shaping applications and high impact business news.
+- [Altern AI Newsletter](https://newsletter.altern.ai). - The latest breakthroughs, announcements, and trends in the world of AI — delivered straight to your inbox.
 
 ## Blockchain / Cryptocurrencies
 
