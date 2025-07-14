@@ -69,6 +69,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Resilience](#resilience)
 - [Security](#security)
 - [Entrepreneurship](#entrepreneurship)
+- [System Design](#system-design)
 - [Miscellaneous](#miscellaneous)
 - [License](#license)
 
@@ -513,6 +514,11 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ## Productivity
 
 - [The Productivity Newsletter](https://newsletter.productivity.directory)
+
+## System Design
+
+- [Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/). Newsletter for engineers who refuse to accept “good enough” architecture.
+- [ByteByteGo](https://blog.bytebytego.com/). Explain complex systems with simple terms, from the authors of the best-selling system design book series
 
 ## Miscellaneous
 
