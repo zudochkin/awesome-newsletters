@@ -201,6 +201,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Grok](https://grok.computer). Free daily summary of the internet for software engineers. [Archive](https://grok.computer/newsletter)
 - [Tech Talks Weekly](https://techtalksweekly.substack.com/). A free weekly newsletter that brings all the recently uploaded tech talks across [+100 engineering conferences](https://techtalksweekly.substack.com/p/tech-conferences) like Devoxx, NDC, GOTO, StrangeLoop, ... right into your inbox. [Archive](https://techtalksweekly.substack.com/archive).
 - [CodeDegen Daily](https://codedegen.substack.com/) A daily, mostly free, No BS newsletter for programming information in general you'r just one click away.
+
 ### ObjectiveC
 
 - [ObjC](https://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
@@ -452,6 +453,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Engineering Leadership](https://newsletter.eng-leadership.com/). Weekly newsletter for becoming a great engineering leader.
 
 ## Career and growth
+
 - [High Growth Engineer](https://read.highgrowthengineer.com/)
 - [The Developing Dev](https://open.substack.com/pub/ryanlpeterman)
 - [Level up software engineering](https://open.substack.com/pub/levelupsoftwareengineering)
@@ -502,7 +504,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 - [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
 - [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
-- [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
+- [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news here.
 - [Simply Explained](https://newsletter.simplyexplained.com/). Monthly newsletter to tickle your curiosity. Mostly science and technology news.
 
 ## Resilience
@@ -510,6 +512,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Resilience Roundup](https://resilienceroundup.com). Learn from Resilence Engineering research without having to dig through long, academic papers.
 
 ## Security
+
 - [Security Talks Digest](https://talks.donsan.org). A newsletter, that aggregates content from the security conferences around the world and deliver them in form of a weekly report.
 - [Phishing Stories](https://phishingstories.beehiiv.com). The One Email CIOs & CISOs Actually Want Their Employees to Open.
 - [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
