@@ -63,7 +63,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Blockchain / Cryptocurrencies](#blockchain--cryptocurrencies)
 - [Technology in General](#technology-in-general)
 - [Leadership](#leadership)
-- [Career and Growth)(#career-and-growth)
+- [Career and Growth](#career-and-growth)
 - [Marketing](#marketing)
 - [Business/Finance](#businessfinance)
 - [Awesome news](#awesome-news)
