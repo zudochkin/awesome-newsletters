@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Blockchain / Cryptocurrencies](#blockchain--cryptocurrencies)
 - [Technology in General](#technology-in-general)
 - [Leadership](#leadership)
+- [Career and Growth)(#career-and-growth)
 - [Marketing](#marketing)
 - [Business/Finance](#businessfinance)
 - [Awesome news](#awesome-news)
@@ -449,6 +450,23 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Leadership in Tech](https://leadershipintech.com/). A carefully curated weekly newsletter for CTOs, engineering managers and senior engineers to become better leaders.
 - [Engineering Leadership Snacks](https://engineeringleadership.kulkarniankita.com/). Weekly Snacks on Actionable Leadership tips, a Deep-dive and free Toolbox to excel as a Leader.
 - [Engineering Leadership](https://newsletter.eng-leadership.com/). Weekly newsletter for becoming a great engineering leader.
+
+## Career and growth
+- [High Growth Engineer](https://read.highgrowthengineer.com/)
+- [The Developing Dev](https://open.substack.com/pub/ryanlpeterman)
+- [Level up software engineering](https://open.substack.com/pub/levelupsoftwareengineering)
+- [Engineer’s Codex](https://open.substack.com/pub/engineercodex)
+- [Coding Challenges](https://open.substack.com/pub/codingchallenges)
+- [EcZachly Data Engineering Newsletter](https://open.substack.com/pub/eczachly)
+- [Techlead Mentor](https://open.substack.com/pub/ravirajachar)
+- [The Caring Techie](https://open.substack.com/pub/thecaringtechie)
+- [Refactoring](https://open.substack.com/pub/refactoring)
+- [Strategize Your Career](https://open.substack.com/pub/strategizeyourcareer)
+- [Saiyan Growth Letter](https://open.substack.com/pub/tigerabrodi)
+- [Software Design: Tidy First?](https://open.substack.com/pub/tidyfirst)
+- [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted)
+- [Exaltitude Career Growth](https://www.exaltitude.io/newsletter)
+- [A Life Engineered](https://newsletter.alifeengineered.com/)
 
 ## Marketing
 
