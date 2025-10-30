@@ -119,6 +119,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
 - [Nextjs Weekly](https://nextjsweekly.com/). A newsletter of the best Next.js articles, tools and projects.
+- [React Native Rewind](https://thereactnativerewind.com/). A Dev Newsletter That Doesn't Suck.
 
 #### EmberJS
 
