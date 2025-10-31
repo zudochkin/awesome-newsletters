@@ -131,6 +131,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Vue.js Newsletter](https://news.vuejs.org). Weekly dose of handpicked Vue.js news.
 - [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs. Published weekly.
+- [Weekly Vue News](https://weekly-vue.news). A weekly newsletter for Vue & Nuxt developers.
 
 #### Svelte
 
