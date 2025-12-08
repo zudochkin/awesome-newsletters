@@ -446,6 +446,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [TechTok Today](https://techtok.today). Daily summarised and curated news in technology (as newsletter and in-website stories) picked from the most popular sources and fresh engineering blogs articles from leading tech companies.
 - [Weekly Engineering Newsletter](https://weeklyengineeringnewsletter.substack.com). Every Sunday, delivering a digest of the week's most fascinating finds in the tech world.
 - [Hacking Scale](https://newsletter.betterstack.com/). A bi-weekly newsletter about building and scaling software from engineers at Better Stack.
+- [mainbranch](https://mainbranch.beehiiv.com/). A short, no-hype newsletter on software engineering fundamentals, practical features for better code, and platform updates that help ship faster.
 
 ## Leadership
 
