@@ -447,6 +447,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Weekly Engineering Newsletter](https://weeklyengineeringnewsletter.substack.com). Every Sunday, delivering a digest of the week's most fascinating finds in the tech world.
 - [Hacking Scale](https://newsletter.betterstack.com/). A bi-weekly newsletter about building and scaling software from engineers at Better Stack.
 - [mainbranch](https://mainbranch.beehiiv.com/). A short, no-hype newsletter on software engineering fundamentals, practical features for better code, and platform updates that help ship faster.
+- [Take It From The Top](https://takeitfromthe.top/). Daily rundown of AI and tech. Filters out the fluff, keeps the good parts. Covers launches, dev tools, and engineering reads so you're always in the loop. [Archive](https://takeitfromthe.top/).
 
 ## Leadership
 
