@@ -440,6 +440,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ## Technology in General
 
 - [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/). An AI-curated daily news briefing delivered to Telegram. Personalized to your topics from 25+ sources including Reuters, Bloomberg, FT, TechCrunch, CoinTelegraph, Foreign Policy, and more. GPT-4o-mini summarization with full source citations. Free tier available.
 - [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
 - [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
 - [Unzip.dev](https://unzip.dev/). Developer trends newsletter, unpacking one trend at a time.
