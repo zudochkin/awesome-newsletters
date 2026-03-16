@@ -319,6 +319,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome Java Newsletter](https://java.libhunt.com/newsletter). A curated list of awesome Java frameworks, libraries and software.
 - [Baeldung Weekly Review](https://www.baeldung.com/java-web-weekly). Keep up-to-date with the main developments in the Java world through this weekly guide.
 - [Java Newsletter Insights](https://curatedjava.com/java-weekly-newsletter/). A Java newsletter contemplating Java content curated from dozens of sources.
+- [JVM Weekly](https://www.jvm-weekly.com/). A weekly newsletter by Artur Skowronski covering the JVM ecosystem, including Java, Kotlin, Scala, GraalVM, Quarkus and related technologies.
 
 ### Kotlin
 
