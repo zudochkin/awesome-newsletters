@@ -430,6 +430,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The Batch](https://www.deeplearning.ai/the-batch/). The weekly DeepLearning.AI newsletter that highlights the most practical research papers, industry shaping applications and high impact business news.
 - [Augmented Coding Weekly](https://augmentedcoding.dev/). A weekly newsletter that takes a hype-free look at the latest news about AI-augmented software development and vibe coding, with a focus on how it is changing the software industry
 - [Adapt or Die](https://adaptordie.io). Independent analysis of AI's impact on commerce — covering agentic commerce, AI infrastructure spending, and digital transformation with long-form, zero-hype takes.
+- [AI Tools for Solopreneurs](https://suzunosukenagata-star.github.io/newsletter-bot/). Weekly AI tools, automation tips, and copy-paste prompts for one-person businesses. Every Tuesday.
 
 ## Blockchain / Cryptocurrencies
 
