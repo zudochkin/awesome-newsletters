@@ -485,6 +485,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The Content Odyssey](https://newsletter.mktodyssey.com/). Biweekly tried-and-tested content growth experiments.
 - [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
 - [Geekout Newsletter](https://geekout.mattnavarra.com/) - latest social media platform news, tips, tools, and new features
+- [Overloop CLI](https://agent.overloop.ai). AI-powered outbound sales automation. Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, and manage conversations from the terminal. JSON output, agent-native.
 
 ## Business/Finance
 
