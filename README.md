@@ -204,6 +204,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Grok](https://grok.computer). Free daily summary of the internet for software engineers. [Archive](https://grok.computer/newsletter)
 - [Tech Talks Weekly](https://techtalksweekly.substack.com/). A free weekly newsletter that brings all the recently uploaded tech talks across [+100 engineering conferences](https://techtalksweekly.substack.com/p/tech-conferences) like Devoxx, NDC, GOTO, StrangeLoop, ... right into your inbox. [Archive](https://techtalksweekly.substack.com/archive).
 - [CodeDegen Daily](https://codedegen.substack.com/) A daily, mostly free, No BS newsletter for programming information in general you'r just one click away.
+- [daily.dev Digest](https://daily.dev). A community-driven newsletter delivering the most engaged developer stories from the daily.dev feed as a concise, high-signal update. Covers programming, DevOps, AI, and career topics curated by a community of 1M+ developers.
 - 
 
 ### ObjectiveC
