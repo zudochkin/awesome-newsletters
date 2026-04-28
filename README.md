@@ -431,6 +431,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Augmented Coding Weekly](https://augmentedcoding.dev/). A weekly newsletter that takes a hype-free look at the latest news about AI-augmented software development and vibe coding, with a focus on how it is changing the software industry
 - [Adapt or Die](https://adaptordie.io). Independent analysis of AI's impact on commerce — covering agentic commerce, AI infrastructure spending, and digital transformation with long-form, zero-hype takes.
 - [AI Dev Jobs Weekly](https://aidevboard.com). A weekly digest of the latest AI and machine learning developer jobs from 280+ companies including Anthropic, OpenAI, and DeepMind.
+- [Creative AI News](https://www.creativeainews.com). Weekly AI tools and workflows for every working creator: image, video, audio, 3D, and code.
 
 ## Blockchain / Cryptocurrencies
 
