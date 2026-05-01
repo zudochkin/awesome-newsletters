@@ -419,6 +419,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
+- [MAX Newsletter](https://web-delta-ten-70.vercel.app). Weekly AI-curated digest for B2B founders — the latest AI tools, research and business insights, curated by AI and delivered in a 5-minute weekly read.
 - [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence and Machine Learning.
 - [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
