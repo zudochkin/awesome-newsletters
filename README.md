@@ -453,6 +453,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [mainbranch](https://mainbranch.beehiiv.com/). A short, no-hype newsletter on software engineering fundamentals, practical features for better code, and platform updates that help ship faster.
 - [Take It From The Top](https://takeitfromthe.top/). Daily rundown of AI and tech. Filters out the fluff, keeps the good parts. Covers launches, dev tools, and engineering reads so you're always in the loop. [Archive](https://takeitfromthe.top/).
 - [Tech Byte Daily](https://tech-byte.dev) Free, No-fluff daily tech newsletter for senior software engineers
+- [Techpresso](https://dupple.com/techpresso). Daily AI and tech newsletter delivering the most impactful tech news, curated and explained in 5 minutes.
 
 ## Leadership
 
