@@ -515,6 +515,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
 - [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news here.
 - [Simply Explained](https://newsletter.simplyexplained.com/). Monthly newsletter to tickle your curiosity. Mostly science and technology news.
+- [The Gist](https://thegist.online/). AI-curated, human-edited daily digest of markets, energy, AI and geopolitics from a declared classical-liberal standpoint, with a twice-daily companion podcast. Available in English and Italian.
 
 ## Resilience
 
