@@ -140,6 +140,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Data Visualization
 
 - [Generative Collective](https://generative.substack.com/). News, tutorials, articles and inspirations covering the generative / functional arts every Saturday morning.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ### CSS
 
