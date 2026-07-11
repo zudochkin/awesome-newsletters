@@ -205,6 +205,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Tech Talks Weekly](https://techtalksweekly.substack.com/). A free weekly newsletter that brings all the recently uploaded tech talks across [+100 engineering conferences](https://techtalksweekly.substack.com/p/tech-conferences) like Devoxx, NDC, GOTO, StrangeLoop, ... right into your inbox. [Archive](https://techtalksweekly.substack.com/archive).
 - [CodeDegen Daily](https://codedegen.substack.com/) A daily, mostly free, No BS newsletter for programming information in general you'r just one click away.
 - 
+- [Devshot](https://devshot.co). A free daily developer newsletter covering the most important coding and dev news, tools, frameworks, and releases in a 5-minute read.
 
 ### ObjectiveC
 
@@ -486,6 +487,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The Content Odyssey](https://newsletter.mktodyssey.com/). Biweekly tried-and-tested content growth experiments.
 - [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
 - [Geekout Newsletter](https://geekout.mattnavarra.com/) - latest social media platform news, tips, tools, and new features
+- [MarketingShot](https://marketingshot.com). A free daily newsletter rounding up the most important marketing news, campaigns, and tools in a 5-minute read.
 
 ## Business/Finance
 
@@ -497,6 +499,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Unvalidated Ideas](https://unvalidatedideas.com). Fresh startup and SaaS ideas that you can take out and market validate every week.
 - [Generated.Company](https://generated.company). Unleash Your Entrepreneurial Potential with AI-Powered Company Ideas. 10 Company ideas every single week.
 - [Indie Hackers Newsletter](https://www.indiehackers.com/newsletter). The best news for founders, not consumers.
+- [Finpresso](https://finpresso.com). A free daily newsletter covering the most important finance and tech news — markets, fintech, and the tech shaping money — in a 5-minute read.
 
 ## Awesome news
 
@@ -530,6 +533,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Advisory Week](https://advisoryweek.com/). A weekly email with a roundup of Security Advisories published by the major software vendors.
 - [Shift Security Left](https://shift-security-left.curated.co/). A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at @cossacklabs.
 - [RTC Security Newsletter](https://www.rtcsec.com/newsletter/). A monthly newsletter of real-time communication security news, research, and occasional updates by Enable Security.
+- [Cyberpresso](https://cyberpresso.com). A free daily cybersecurity newsletter covering breaches, threats, tools, and research in a clear 5-minute read.
 
 ## Entrepreneurship
 
