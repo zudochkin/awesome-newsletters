@@ -256,6 +256,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Short Ruby Newsletter](https://newsletter.shortruby.com). A visual weekly newsletter about everything happening in Ruby world.
 - [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/). A monthly newsletter on the Hotwire stack: Turbo (Native), Stimulus, and Strada articles, code, and courses.
 - [The RailsNotes Newsletter](https://railsnotes.xyz/newsletter). The Ruby on Rails guides you wished you had — now as a weekly newsletter!
+- [RailsRevelry](https://railsrevelry.substack.com/). A publication on Ruby on Rails internals and runtime execution architecture for developers.
 
 ### PHP
 
