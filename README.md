@@ -431,6 +431,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Augmented Coding Weekly](https://augmentedcoding.dev/). A weekly newsletter that takes a hype-free look at the latest news about AI-augmented software development and vibe coding, with a focus on how it is changing the software industry
 - [Adapt or Die](https://adaptordie.io). Independent analysis of AI's impact on commerce — covering agentic commerce, AI infrastructure spending, and digital transformation with long-form, zero-hype takes.
 - [AI Dev Jobs Weekly](https://aidevboard.com). A weekly digest of the latest AI and machine learning developer jobs from 280+ companies including Anthropic, OpenAI, and DeepMind.
+- [Brightray](https://brightray.ai/?via=dir-awesome-newsletters). A free daily AI briefing built around people rather than headlines: it monitors nearly 500 named AI researchers and engineers across X, blogs, lab posts and papers, attributes every item to whoever said it, and shows both sides when leading researchers disagree.
 
 ## Blockchain / Cryptocurrencies
 
