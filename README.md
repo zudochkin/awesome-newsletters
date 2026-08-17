@@ -530,6 +530,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Advisory Week](https://advisoryweek.com/). A weekly email with a roundup of Security Advisories published by the major software vendors.
 - [Shift Security Left](https://shift-security-left.curated.co/). A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at @cossacklabs.
 - [RTC Security Newsletter](https://www.rtcsec.com/newsletter/). A monthly newsletter of real-time communication security news, research, and occasional updates by Enable Security.
+- [ThreatCluster](https://threatcluster.io/digest). Daily cyber threat digest built from clustered reporting across thousands of sources.
 
 ## Entrepreneurship
 
