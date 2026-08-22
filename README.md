@@ -487,7 +487,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
 - [Geekout Newsletter](https://geekout.mattnavarra.com/) - latest social media platform news, tips, tools, and new features
 
-- [Storefront Brief](https://fortune-insight.onrender.com/shop/). Weekend teardowns of 12-20 USD storefront tools, with a free sample on Telegram.
+- [Storefront Brief](https://fortune-insight.onrender.com/shop/). Weekend teardowns of \-\ storefront tools, with a free sample on Telegram.
 
 ## Business/Finance
 
