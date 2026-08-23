@@ -236,6 +236,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
 - [iOS Dev Tools Newsletter](https://iosdev.tools/). The best tools for iOS developers, updated weekly.
 - [Indie Watch](https://indie.watch/). Weekly interviews with successful iOS & macOS developers about strategies and tips you can use to create profitable indie apps.
+- [Storefront Brief](https://fortune-insight.onrender.com/shop/). Weekly App Store policy and fee notes for indie iOS teams shipping internationally. Free English sample. [Archive](https://fortune-insight.onrender.com/shop/brief/issue-001-en.html).
 
 ### Go
 
@@ -486,8 +487,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The Content Odyssey](https://newsletter.mktodyssey.com/). Biweekly tried-and-tested content growth experiments.
 - [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
 - [Geekout Newsletter](https://geekout.mattnavarra.com/) - latest social media platform news, tips, tools, and new features
-
-- [Storefront Brief](https://fortune-insight.onrender.com/shop/). Weekend teardowns of \-\ storefront tools, with a free sample on Telegram.
 
 ## Business/Finance
 
