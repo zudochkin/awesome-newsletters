@@ -389,6 +389,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [StatusCode Weekly](https://weekly.statuscode.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 - [Learn Kubernetes weekly](https://learnkube.com/learn-kubernetes-weekly). Curated articles, tutorials, projects and events with a focus on Kubernetes.
 - [DevOps Bulletin](https://devopsbulletin.com). The latest DevOps trends in your inbox every week. From AWS, Terraform, and Kubernetes to CI/CD pipelines and cloud-native architecture, we've got you covered!
+- [DevOps Daily Newsletter](https://devops-daily.com/newsletters). A weekly Monday digest of new DevOps articles, interactive simulators, quizzes and tool comparisons.
 
 ### Cloud Development
 
