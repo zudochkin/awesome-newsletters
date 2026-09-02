@@ -437,6 +437,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Inside Cryptocurrency](https://inside.com/cryptocurrency). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
 - [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter). Blockchain tech without the bull— a weekly dose of blockchain reality with a heavy bias toward the technical.
+- [Gofun Daily EN](https://gofun-daily-en.beehiiv.com). Three essential Web3 gaming and AI stories, one on-chain data point, and an original take every morning in a five-minute read.
 
 ## Technology in General
 
