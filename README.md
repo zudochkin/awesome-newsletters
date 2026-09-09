@@ -339,6 +339,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [NixOS Weekly](https://weekly.nixos.org). Latest News for [NixOS](https://nixos.org)
 - [Console Weekly](https://console.substack.com/). Discover cool open-source projects and an interview with one of the developers every week.
 - [FOSS Weekly](https://fossweekly.beehiiv.com/). The easiest way to keep up with Open Source Software.
+- [Nossletter](https://nossletter.tech/). A free daily newsletter breaking down the best merged PRs in open source.
 
 ## Git
 
