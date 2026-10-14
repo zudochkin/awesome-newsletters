@@ -70,7 +70,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Resilience](#resilience)
 - [Security](#security)
 - [Entrepreneurship](#entrepreneurship)
-- [System Design](#system-design)
+- [System ](#system-)
 - [Miscellaneous](#miscellaneous)
 - [License](#license)
 
@@ -89,7 +89,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
 - [JAMstacked](https://jamstack.email/). An email update on the evolving JAMstack ecosystem.
 - [FreeCodeCamp](https://www.freecodecamp.org). Weekly selection of five articles, videos or entire courses from FreeCodeCamp learning platform.
-- [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative new projects and libraries in web development and design.
+- [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative new projects and libraries in web development and .
 - [The Comet](https://wpuniverse.online/the-comet/). Short. Concise. Blazing fast 🌠 A monthly free newsletter about WordPress and web development.
 - [Web Weekly](https://webweekly.email/). Weekly news about web dev fundamentals, new browser features and coding tools.
 - [Syntax Snack Pack](https://syntax.fm/snackpack). Bi-weekly web dev newsletter with curated links + news from the [Syntax.fm](https://syntax.fm) podcast.
@@ -166,6 +166,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 - [Unreadit/Design](https://unread.it/n/design/). Design inspiration and great design-related content sourced from the best subreddits.
 - [Figmalion](https://figmalion.com). A biweekly curated newsletter about [Figma](https://www.figma.com/).
+- [The Shot List](https://shotlist.to) - Weekly product photography analysis & inspiration for beauty, fragrance & skincare brands
 
 ### HTML5
 
