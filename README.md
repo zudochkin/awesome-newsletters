@@ -481,6 +481,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted)
 - [Exaltitude Career Growth](https://www.exaltitude.io/newsletter)
 - [A Life Engineered](https://newsletter.alifeengineered.com/)
+- [RoleGig](https://rolegig.com). Weekly job lists by role and region for technical writers, product managers, QA engineers, AI engineers and developers.
 
 ## Marketing
 
