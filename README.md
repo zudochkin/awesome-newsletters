@@ -94,6 +94,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Web Weekly](https://webweekly.email/). Weekly news about web dev fundamentals, new browser features and coding tools.
 - [Syntax Snack Pack](https://syntax.fm/snackpack). Bi-weekly web dev newsletter with curated links + news from the [Syntax.fm](https://syntax.fm) podcast.
 - [Marko Denic Tech](https://markodenic.tech). Weekly web dev newsletter with snippets and tutorials.
+- [Preload](https://preload.agencewebperformance.fr/en/). Weekly roundup of what changes for the web: standards, browsers, performance, CMS and frameworks, each item with its primary source and the step to take.
 
 ### JavaScript
 
