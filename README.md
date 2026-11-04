@@ -500,6 +500,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Unvalidated Ideas](https://unvalidatedideas.com). Fresh startup and SaaS ideas that you can take out and market validate every week.
 - [Generated.Company](https://generated.company). Unleash Your Entrepreneurial Potential with AI-Powered Company Ideas. 10 Company ideas every single week.
 - [Indie Hackers Newsletter](https://www.indiehackers.com/newsletter). The best news for founders, not consumers.
+- [PainPoint Daily](https://painpointdaily.com/). Free business and startup ideas, each traced to a real problem people posted on Reddit.
 
 ## Awesome news
 
