@@ -434,6 +434,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Adapt or Die](https://adaptordie.io). Independent analysis of AI's impact on commerce — covering agentic commerce, AI infrastructure spending, and digital transformation with long-form, zero-hype takes.
 - [AI Dev Jobs Weekly](https://aidevboard.com). A weekly digest of the latest AI and machine learning developer jobs from 280+ companies including Anthropic, OpenAI, and DeepMind.
 - [Siteefy Newsletter](https://newsletter.siteefy.com/). AI and technology updates for people who build things.
+- [Briefed](https://briefednewsletter.com/newsletters/ai-news?utm_source=awesome_newsletters&utm_medium=community&utm_campaign=ai_startups_nov2026). Free AI-written public-news briefs personalised to your interests, with source links and daily, every-two-days or weekly email delivery.
 
 ## Blockchain / Cryptocurrencies
 
