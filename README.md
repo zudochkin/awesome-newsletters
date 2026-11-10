@@ -489,6 +489,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The Content Odyssey](https://newsletter.mktodyssey.com/). Biweekly tried-and-tested content growth experiments.
 - [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
 - [Geekout Newsletter](https://geekout.mattnavarra.com/) - latest social media platform news, tips, tools, and new features
+- [The Solo Ad Lab Weekly](https://soloadlab.com/newsletter/). A free weekly email for solo marketers and small businesses with new step-by-step playbooks for making ads and social content with AI.
 
 ## Business/Finance
 
