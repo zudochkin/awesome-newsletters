@@ -547,6 +547,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ## Productivity
 
 - [The Productivity Newsletter](https://newsletter.productivity.directory)
+- [Productive Fish](https://productive.fish/newsletter/). Tips on productivity, learning how to learn and well-being from the Productive Fish blog, once or twice a month.
 
 ## System Design
 
